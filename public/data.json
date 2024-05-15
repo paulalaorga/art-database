@@ -8,6 +8,7 @@
         "AncientGreece": {
           "Period": "Ancient Greece",
           "Years": "500 - 323 BC",
+          "Picture":"https://i.pinimg.com/originals/ee/23/2c/ee232cb550d872a082895d73572f475c.gif",
           "Works": [
             {
               "Name": "The Charioteer of Delphi",
@@ -221,6 +222,7 @@
         "AncientRome": {
           "Period": "Ancient Rome",
           "Years": "500 - 323 BC",
+          "Picture": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjY3LTEyNi12XzEtbDEzZDNoY3MuanBn.jpg",
           "Works": [
             {
               "Name": "Young Hercules",
@@ -454,6 +456,7 @@
     "MedievalEra": {
       "Era": "Medieval Era",
       "Years": "500 - 1500 AD",
+      "Picture": "https://i.pinimg.com/564x/21/5c/57/215c5737519ebec7099330ff83af3deb.jpg",
       "Periods": {
         "EarlyMedieval": {
           "Period": "Early Medieval",
@@ -528,6 +531,7 @@
     "LongNeoclassicism": {
       "Era": "Long Neoclassicism",
       "Years": "1750 - 1900",
+      "Picture": "https://miro.medium.com/v2/resize:fit:600/1*a-ui7nOZCNNCZ4W9TfIkFg.jpeg",
       "Periods": {
         "Renaissance": {
           "Period": "Renaissance",
@@ -549,6 +553,7 @@
     "19thCentury": {
       "Era": "19th Century",
       "Years": "1800 - 1900",
+      "Picture": "https://www.meisterdrucke.ie/kunstwerke/400w/Honor_Daumier_-_Oui_on_a_eu_lindignit_de_me_refuser_ce_tableau_-_(MeisterDrucke-1256076).jpg",
       "Periods": {
         "Romanticism": {},
         "Realism": {},
@@ -558,6 +563,7 @@
     "20thCentury": {
       "Era": "20th Century",
       "Years": "1900 - 2000",
+      "Picture": "https://i.pinimg.com/originals/04/84/9a/04849a6fd0cc252707228a4957551154.jpg",
       "Periods": {
         "ModernArt": {},
         "PostmodernArt": {}
