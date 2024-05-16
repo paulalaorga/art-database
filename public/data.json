@@ -8,7 +8,7 @@
         "AncientGreece": {
           "Period": "Ancient Greece",
           "Years": "500 - 323 BC",
-          "Picture":"https://i.pinimg.com/originals/ee/23/2c/ee232cb550d872a082895d73572f475c.gif",
+          "Picture": "https://i.pinimg.com/originals/ee/23/2c/ee232cb550d872a082895d73572f475c.gif",
           "Works": [
             {
               "Name": "The Charioteer of Delphi",
@@ -16,7 +16,7 @@
               "Author": "Unknown",
               "Date": "5th century BC",
               "Description": "The Charioteer of Delphi is a Greek sculpture...",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
+              "Image": "https://greekherald.com.au/wp-content/uploads/2021/04/Untitled-2021-04-16T083753.826.jpg",
               "Museum": "Delphi Archaeological Museum"
             },
             {
@@ -563,7 +563,7 @@
     "20thCentury": {
       "Era": "20th Century",
       "Years": "1900 - 2000",
-      "Picture": "https://i.pinimg.com/originals/04/84/9a/04849a6fd0cc252707228a4957551154.jpg",
+      "Picture": "https://www.themorgan.org/sites/default/files/images/collection/drawings/download/264936v_0001.jpg",
       "Periods": {
         "ModernArt": {},
         "PostmodernArt": {}
@@ -573,6 +573,7 @@
     "ContemporaryEra": {
       "Era": "Contemporary Era",
       "Years": "2000 - Present",
+      "Picture": "https://i.pinimg.com/564x/87/80/cf/8780cf4c40d9e8a647f89b7ff70c92da.jpg",
       "Periods": {
         "ContemporaryArt": {}
       }
