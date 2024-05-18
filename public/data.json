@@ -7,7 +7,7 @@
       "Periods": {
         "AncientGreece": {
           "id": "AncientGreece",
-          "Name": "Ancient Greece",
+          "Period": "Ancient Greece",
           "Years": "500 - 323 BC",
           "Picture": "https://i.pinimg.com/originals/ee/23/2c/ee232cb550d872a082895d73572f475c.gif",
           "Works": [
