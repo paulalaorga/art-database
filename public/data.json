@@ -1,12 +1,13 @@
 {
   "TimeLine": {
-    "ClassicalEra": {
-      "Era": "Classical Era",
+    "Classicism": {
+      "Era": "Classicism",
       "Years": "500 - 323 BC",
       "Picture": "https://i.pinimg.com/736x/31/c0/11/31c011994cd0f5c7711f9323c2ac4952.jpg",
       "Periods": {
         "AncientGreece": {
-          "Period": "Ancient Greece",
+          "id": "AncientGreece",
+          "Name": "Ancient Greece",
           "Years": "500 - 323 BC",
           "Picture": "https://i.pinimg.com/originals/ee/23/2c/ee232cb550d872a082895d73572f475c.gif",
           "Works": [
@@ -17,7 +18,9 @@
               "Date": "5th century BC",
               "Description": "The Charioteer of Delphi is a Greek sculpture...",
               "Image": "https://greekherald.com.au/wp-content/uploads/2021/04/Untitled-2021-04-16T083753.826.jpg",
-              "Museum": "Delphi Archaeological Museum"
+              "Museum": "Delphi Archaeological Museum",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Pottery of Musical Scenes",
@@ -26,7 +29,9 @@
               "Date": "6th century BC",
               "Description": "The Pottery of Musical Scenes is a Greek ceramic...",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Walters Art Museum in Baltimore"
+              "Museum": "Walters Art Museum in Baltimore",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Discobolus of Myron",
@@ -35,7 +40,9 @@
               "Date": "5th century BC",
               "Description": "The Discobolus of Myron is a Greek sculpture...",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "National Roman Museum in Rome"
+              "Museum": "National Roman Museum in Rome",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Bronze Nike",
@@ -44,7 +51,9 @@
               "Date": "5th century BC",
               "Description": "The Bronze Nike is a Greek sculpture...",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Louvre Museum in Paris"
+              "Museum": "Louvre Museum in Paris",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Doryphoros by Polykleitos",
@@ -53,7 +62,9 @@
               "Date": "5th century BC",
               "Description": "The Doryphoros by Polykleitos is a Greek sculpture...",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "National Archaeological Museum in Naples"
+              "Museum": "National Archaeological Museum in Naples",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Parthenon",
@@ -62,7 +73,9 @@
               "Date": "5th century BC",
               "Description": "The Parthenon is a Doric temple dedicated to the goddess Athena...",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Acropolis of Athens"
+              "Museum": "Acropolis of Athens",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Bronze of Riace",
@@ -71,7 +84,9 @@
               "Date": "460-450 BC",
               "Description": "The Bronze of Riace are two full-size Greek bronzes of naked bearded warriors...",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "National Museum of Magna Graecia in Reggio Calabria"
+              "Museum": "National Museum of Magna Graecia in Reggio Calabria",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Bust of Plato",
@@ -80,7 +95,9 @@
               "Date": "4th century BC",
               "Description": "A bust depicting the ancient Greek philosopher Plato, often considered a foundational figure in Western philosophy.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Acropolis Museum, Athens"
+              "Museum": "Acropolis Museum, Athens",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "The Kidnap of Persephone",
@@ -89,7 +106,9 @@
               "Date": "4th century BC",
               "Description": "A sculpture depicting the mythological event of Hades abducting Persephone to be his queen in the underworld.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "National Archaeological Museum, Athens"
+              "Museum": "National Archaeological Museum, Athens",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Bust of Aristotle",
@@ -98,7 +117,9 @@
               "Date": "4th century BC",
               "Description": "A sculptural portrait of Aristotle, one of the greatest philosophers in history, known for his influence on logical and scientific thought.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Ludovisi Collection, Rome"
+              "Museum": "Ludovisi Collection, Rome",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Helios Chariot",
@@ -107,7 +128,9 @@
               "Date": "3rd century BC",
               "Description": "A representation of the sun god Helios driving his chariot across the sky, symbolizing the passage of the sun.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Rhodes Archaeological Museum"
+              "Museum": "Rhodes Archaeological Museum",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Alexander Sarcophagus",
@@ -116,7 +139,9 @@
               "Date": "4th century BC",
               "Description": "The Alexander Sarcophagus is a late 4th century BC Hellenistic stone sarcophagus adorned with bas-relief carvings of Alexander the Great.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Istanbul Archaeology Museum"
+              "Museum": "Istanbul Archaeology Museum",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Laocoön and His Sons",
@@ -125,7 +150,9 @@
               "Date": "1st century BC",
               "Description": "Laocoön and His Sons is a monumental marble sculpture portraying a scene from Greek mythology, depicting the Trojan priest Laocoön and his sons being attacked by sea serpents.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Vatican Museums"
+              "Museum": "Vatican Museums",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Winged Victory of Samothrace",
@@ -134,7 +161,9 @@
               "Date": "2nd century BC",
               "Description": "The Winged Victory of Samothrace, also known as the Nike of Samothrace, is a marble Hellenistic sculpture of Nike, the Greek goddess of victory, discovered on the island of Samothrace in 1863.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Louvre Museum"
+              "Museum": "Louvre Museum",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Frescos of the Villa of the Mysteries",
@@ -143,7 +172,9 @@
               "Date": "1st century BC",
               "Description": "The Frescos of the Villa of the Mysteries are a series of vibrant frescoes found in Pompeii that depict a series of initiation rituals into a mystery cult.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Villa of the Mysteries, Pompeii, Naples"
+              "Museum": "Villa of the Mysteries, Pompeii, Naples",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Venus de Milo",
@@ -152,7 +183,9 @@
               "Date": "130-100 BC",
               "Description": "The Venus de Milo is an ancient Greek statue and one of the most famous works of ancient Greek sculpture, representing Aphrodite, the Greek goddess of love and beauty.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Louvre Museum"
+              "Museum": "Louvre Museum",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Aphrodite Menophantos",
@@ -161,7 +194,9 @@
               "Date": "1st century BC",
               "Description": "The Aphrodite Menophantos is a Roman copy of a Greek",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Capitoline Museums, Rome"
+              "Museum": "Capitoline Museums, Rome",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Bust of Tusculum (Portrait of Julius Caesar)",
@@ -170,7 +205,9 @@
               "Date": "1st century BC",
               "Description": "The Bust of Tusculum is one of the most iconic portraits of Julius Caesar, providing a realistic depiction of the Roman dictator.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Vatican Museums, Rome"
+              "Museum": "Vatican Museums, Rome",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Bust of Julius Caesar",
@@ -179,7 +216,9 @@
               "Date": "1st century BC",
               "Description": "The Bust of Julius Caesar is a marble bust representing Julius Caesar, capturing the authoritative and resolute character of Caesar.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "British Museum, London"
+              "Museum": "British Museum, London",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Maison Carrée",
@@ -188,7 +227,9 @@
               "Date": "1st century AD",
               "Description": "The Maison Carrée is one of the best preserved Roman temple façades, an exemplar of Vitruvian architecture.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Nîmes, France"
+              "Museum": "Nîmes, France",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Bust of Socrates",
@@ -197,7 +238,9 @@
               "Date": "4th century BC",
               "Description": "The Bust of Socrates is a sculptural bust of Socrates, one of the founders of Western philosophy, known for his contributions to ethics and epistemology.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Louvre Museum"
+              "Museum": "Louvre Museum",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "Portrait of Paquius Proculus",
@@ -206,7 +249,9 @@
               "Date": "1st century AD",
               "Description": "The Portrait of Paquius Proculus is a fresco depicting Paquius Proculus, a prominent citizen of Pompeii, shown with his wife.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "National Archaeological Museum, Naples"
+              "Museum": "National Archaeological Museum, Naples",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             },
             {
               "Name": "The Judgment of Paris, Fresco from Pompeii",
@@ -215,11 +260,14 @@
               "Date": "1st century AD",
               "Description": "The Judgment of Paris is a fresco that vividly depicts the mythological story of Paris awarding the golden apple to Aphrodite, leading to the Trojan War.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "National Archaeological Museum, Naples"
+              "Museum": "National Archaeological Museum, Naples",
+              "Period": "Ancient Greece",
+              "Era": "Classicism"
             }
           ]
         },
         "AncientRome": {
+          "id": "AncientRome",
           "Period": "Ancient Rome",
           "Years": "500 - 323 BC",
           "Picture": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjY3LTEyNi12XzEtbDEzZDNoY3MuanBn.jpg",
@@ -454,6 +502,7 @@
       }
     },
     "MedievalEra": {
+      "id": "MedievalEra",
       "Era": "Medieval Era",
       "Years": "500 - 1500 AD",
       "Picture": "https://i.pinimg.com/564x/21/5c/57/215c5737519ebec7099330ff83af3deb.jpg",
@@ -529,7 +578,8 @@
       }
     },
     "LongNeoclassicism": {
-      "Era": "Neoclassicism",
+      "id": "LongNeoclassicism",
+      "Era": "Long Neoclassicism",
       "Years": "1750 - 1900",
       "Picture": "https://miro.medium.com/v2/resize:fit:600/1*a-ui7nOZCNNCZ4W9TfIkFg.jpeg",
       "Periods": {
@@ -551,7 +601,8 @@
       }
     },
     "19thCentury": {
-      "Era": "19th Century",
+      "id": "XIXCentury",
+      "Era": "XIX Century",
       "Years": "1800 - 1900",
       "Picture": "https://www.meisterdrucke.ie/kunstwerke/400w/Honor_Daumier_-_Oui_on_a_eu_lindignit_de_me_refuser_ce_tableau_-_(MeisterDrucke-1256076).jpg",
       "Periods": {
@@ -561,7 +612,8 @@
       }
     },
     "20thCentury": {
-      "Era": "20th Century",
+      "id": "XXCentury",
+      "Era": "XX Century",
       "Years": "1900 - 2000",
       "Picture": "https://www.themorgan.org/sites/default/files/images/collection/drawings/download/264936v_0001.jpg",
       "Periods": {
@@ -571,6 +623,7 @@
     },
 
     "ContemporaryEra": {
+      "id": "ContemporaryEra",
       "Era": "Contemporary Era",
       "Years": "2000 - Present",
       "Picture": "https://i.pinimg.com/564x/87/80/cf/8780cf4c40d9e8a647f89b7ff70c92da.jpg",
