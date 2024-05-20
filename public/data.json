@@ -760,7 +760,6 @@
           "Period": "Renaissance",
           "Years": "1400 - 1600",
           "Works": [
-            [
               {
                   "Name": "Ten Books on Architecture",
                   "id": 61,
@@ -1241,9 +1240,6 @@
                   "Period": "Renaissance",
                   "Link": "https://www.wga.hu/html_m/m/manuel/j_paris.html"
               }
-          ]
-          
-
           ]
         },
         "Baroque": {
