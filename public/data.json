@@ -73,7 +73,7 @@
             {
               "Name": "Bronze of Riace",
               "id": 6,
-              "Author": "Unknown",
+              "Author": "Phidias",
               "Date": "460-450 BC",
               "Description": "The Bronze of Riace are two full-size Greek bronzes of naked bearded warriors...",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museo_Magna_Grecia_07_%28cropped%29.jpg/340px-Museo_Magna_Grecia_07_%28cropped%29.jpg",
@@ -95,8 +95,19 @@
               "Link": "https://commons.wikimedia.org/wiki/File:Bust_of_Plato,_Vatican_Museum,_Rome.jpg"
             },
             {
-              "Name": "The Abduction of Proserpina",
+              "Name": "Hercules Farnese",
               "id": 8,
+              "Author": "Glykon of Athens",
+              "Date": "3rd century BC",
+              "Description": "A Roman copy of a lost original by Lysippos, this sculpture depicts Hercules in a moment of rest, holding the apples of the Hesperides.",
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg/530px-Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg",
+              "Museum": "National Archaeological Museum, Naples",
+              "Era": "Classicism",
+              "Link": "https://en.wikipedia.org/wiki/Farnese_Hercules"
+            },
+            {
+              "Name": "The Abduction of Proserpina",
+              "id": 9,
               "Author": "Unknown",
               "Date": "4th century BC",
               "Description": "A sculpture depicting the mythological event of Hades abducting Persephone to be his queen in the underworld.",
@@ -122,9 +133,9 @@
               "id": 11,
               "Author": "Unknown",
               "Date": "3rd century BC",
-              "Description": "A representation of the sun god Helios driving his chariot across the sky, symbolizing the passage of the sun.",
+              "Description": "A representation of the sun god Helios driving his chariot across the sky, symbolizing the passage of the sun found in Troy.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Ilion---metopa.jpg",
-              "Museum": "Rhodes Archaeological Museum",
+              "Museum": "Pergamon Museum Germany",
               "Period": "Ancient Greece",
               "Era": "Classicism",
               "Link": "https://es.wikipedia.org/wiki/Helios"
@@ -142,20 +153,8 @@
               "Link": "https://en.wikipedia.org/wiki/Alexander_Sarcophagus"
             },
             {
-              "Name": "Laocoön and His Sons",
-              "id": 13,
-              "Author": "Unknown",
-              "Date": "1st century BC",
-              "Description": "Laocoön and His Sons is a monumental marble sculpture portraying a scene from Greek mythology, depicting the Trojan priest Laocoön and his sons being attacked by sea serpents.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/540px-Laoco%C3%B6n_and_his_sons_group.jpg",
-              "Museum": "Vatican Museums",
-              "Period": "Ancient Greece",
-              "Era": "Classicism",
-              "Link": "https://en.wikipedia.org/wiki/Laoco%C3%B6n_and_His_Sons"
-            },
-            {
               "Name": "Winged Victory of Samothrace",
-              "id": 14,
+              "id": 13,
               "Author": "Unknown",
               "Date": "2nd century BC",
               "Description": "The Winged Victory of Samothrace, also known as the Nike of Samothrace, is a marble Hellenistic sculpture of Nike, the Greek goddess of victory, discovered on the island of Samothrace in 1863.",
@@ -166,21 +165,8 @@
               "Link": "https://en.wikipedia.org/wiki/Winged_Victory_of_Samothrace"
             },
             {
-              "Name": "Frescos of the Villa of the Mysteries",
-              "id": 15,
-              "Author": "Unknown",
-              "Date": "1st century BC",
-              "Description": "The Frescos of the Villa of the Mysteries are a series of vibrant frescoes found in Pompeii that depict a series of initiation rituals into a mystery cult.",
-              "Image": "https://pompeiisites.org/wp-content/uploads/Megalografia-di-Villa-dei-Misteri.jpg",
-              "Museum": "Villa of the Mysteries, Pompeii, Naples",
-              "Period": "Ancient Greece",
-              "Era": "Classicism",
-              "Link": "https://en.wikipedia.org/wiki/Villa_of_the_Mysteries"
-
-            },
-            {
               "Name": "Venus de Milo",
-              "id": 16,
+              "id": 14,
               "Author": "Unknown",
               "Date": "130-100 BC",
               "Description": "The Venus de Milo is an ancient Greek statue and one of the most famous works of ancient Greek sculpture, representing Aphrodite, the Greek goddess of love and beauty.",
@@ -191,44 +177,8 @@
               "Link": "https://en.wikipedia.org/wiki/Venus_de_Milo"
             },
             {
-              "Name": "Aphrodite Menophantos",
-              "id": 17,
-              "Author": "Menophantos",
-              "Date": "1st century BC",
-              "Description": "The Aphrodite Menophantos is a Roman copy of a Greek",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Aphrodite_of_Menophantos.jpg/600px-Aphrodite_of_Menophantos.jpg",
-              "Museum": "Capitoline Museums, Rome",
-              "Period": "Ancient Greece",
-              "Era": "Classicism",
-              "Link": "https://en.wikipedia.org/wiki/Aphrodite_of_Menophantos"
-            },
-            {
-              "Name": "Bust of Tusculum (Portrait of Julius Caesar)",
-              "id": 18,
-              "Author": "Unknown",
-              "Date": "1st century BC",
-              "Description": "The Bust of Tusculum is one of the most iconic portraits of Julius Caesar, providing a realistic depiction of the Roman dictator.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/C%C3%A9sar_%2813667960455%29.jpg/1024px-C%C3%A9sar_%2813667960455%29.jpg",
-              "Museum": "Vatican Museums, Rome",
-              "Period": "Ancient Greece",
-              "Era": "Classicism",
-              "Link": "https://en.wikipedia.org/wiki/Tusculum_portrait"
-            },
-            {
-              "Name": "Maison Carrée",
-              "id": 19,
-              "Author": "Unknown",
-              "Date": "1st century AD",
-              "Description": "The Maison Carrée is one of the best preserved Roman temple façades, an exemplar of Vitruvian architecture.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Maison_carr%C3%A9e_%283%29.jpg/440px-Maison_carr%C3%A9e_%283%29.jpg",
-              "Museum": "Nîmes, France",
-              "Period": "Ancient Greece",
-              "Era": "Classicism",
-              "Link": "https://en.wikipedia.org/wiki/Maison_carrée"
-            },
-            {
               "Name": "Bust of Socrates",
-              "id": 21,
+              "id": 15,
               "Author": "Unknown",
               "Date": "4th century BC",
               "Description": "The Bust of Socrates is a sculptural bust of Socrates, one of the founders of Western philosophy, known for his contributions to ethics and epistemology.",
@@ -236,30 +186,6 @@
               "Museum": "Louvre Museum",
               "Period": "Ancient Greece",
               "Era": "Classicism"
-            },
-            {
-              "Name": "Portrait of Paquius Proculus",
-              "id": 22,
-              "Author": "Unknown",
-              "Date": "1st century AD",
-              "Description": "The Portrait of Paquius Proculus is a fresco depicting Paquius Proculus, a prominent citizen of Pompeii, shown with his wife.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Meister_des_Portr%C3%A4ts_des_Paquius_Proculus_001.jpg",
-              "Museum": "National Archaeological Museum, Naples",
-              "Period": "Ancient Greece",
-              "Era": "Classicism",
-              "Link": "https://en.m.wikipedia.org/wiki/File:Pompeii-couple.jpg"
-            },
-            {
-              "Name": "The Judgment of Paris, Fresco from Pompeii",
-              "id": 23,
-              "Author": "Unknown",
-              "Date": "1st century AD",
-              "Description": "The Judgment of Paris is a fresco that vividly depicts the mythological story of Paris awarding the golden apple to Aphrodite, leading to the Trojan War.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Fresco_-_Wall_Fragment_with_the_Judgment_of_Paris.jpg",
-              "Museum": "National Archaeological Museum, Naples",
-              "Period": "Ancient Greece",
-              "Era": "Classicism",
-              "Link": "https://en.wikipedia.org/wiki/File:Fresco_-_Wall_Fragment_with_the_Judgment_of_Paris.jpg"
             }
           ]
         },
@@ -271,7 +197,7 @@
           "Works": [
             {
               "Name": "Young Hercules",
-              "id": 24,
+              "id": 16,
               "Author": "Unknown",
               "Date": "2nd century AD",
               "Description": "The Young Hercules is a sculpture depicting a youthful Hercules, highlighting his strength and potential in his early years.",
@@ -283,7 +209,7 @@
             },
             {
               "Name": "The Dying Gaul",
-              "id": 25,
+              "id": 17,
               "Author": "Unknown",
               "Date": "3rd century BC",
               "Description": "The Dying Gaul is a Roman marble copy of a Hellenistic sculpture, portraying a wounded Gallic warrior in a moment of agony and defeat.",
@@ -295,7 +221,7 @@
             },
             {
               "Name": "Young Woman with Stylus and Tablet (Sappho), Fresco from Pompeii",
-              "id": 26,
+              "id": 18,
               "Author": "Unknown",
               "Date": "1st century AD",
               "Description": "A fresco from Pompeii depicting",
@@ -307,7 +233,7 @@
             },
             {
               "Name": "The Punishment of Dirce, Fresco from Pompeii",
-              "id": 27,
+              "id": 19,
               "Author": "Unknown",
               "Date": "1st century AD",
               "Description": "This dramatic fresco depicts the mythological punishment of Dirce, tied to a wild bull by the sons of Antiope as retribution for her cruelty.",
@@ -319,7 +245,7 @@
             },
             {
               "Name": "Hercules and Omphale, Fresco from Pompeii",
-              "id": 28,
+              "id": 20,
               "Author": "Unknown",
               "Date": "1st century AD",
               "Description": "A fresco showing Hercules in the service of Omphale, the Lydian queen, where he is often depicted",
@@ -330,7 +256,7 @@
             },
             {
               "Name": "Helen of Sparta on Her Way to Troy, Fresco from Pompeii",
-              "id": 29,
+              "id": 21,
               "Author": "Unknown",
               "Date": "1st century AD",
               "Description": "A fresco capturing the moment Helen of Sparta is taken to Troy, an event that sparked the Trojan War.",
@@ -342,7 +268,7 @@
             },
             {
               "Name": "Fayum Portraits",
-              "id": 30,
+              "id": 22,
               "Author": "Various",
               "Date": "1st to 3rd century AD",
               "Description": "A collection of mummy portraits from the Fayum area in Egypt, remarkable for their realism and vivid depiction of ancient faces.",
@@ -354,7 +280,7 @@
             },
             {
               "Name": "Dionysus (seated on a throne) with Helios, Aphrodite and Other Gods, Fresco from Pompeii",
-              "id": 31,
+              "id": 23,
               "Author": "Unknown",
               "Date": "1st century AD",
               "Description": "A detailed fresco depicting Dionysus alongside other deities such as Helios and Aphrodite, illustrating a scene of divine congregation.",
@@ -366,7 +292,7 @@
             },
             {
               "Name": "Laocoon and His Sons",
-              "id": 32,
+              "id": 24,
               "Author": "Agesander, Athenodoros, and Polydorus",
               "Date": "Early 1st century AD",
               "Description": "This famous sculpture shows the Trojan priest Laocoon and his sons being attacked by sea serpents, highlighting the suffering and struggle.",
@@ -378,7 +304,7 @@
             },
             {
               "Name": "Pont du Gard (France)",
-              "id": 33,
+              "id": 25,
               "Author": "Unknown",
               "Date": "1st century AD",
               "Description": "An ancient Roman aqueduct bridge that crosses the Gardon River in southern France, exemplifying Roman architectural brilliance and utility.",
@@ -390,7 +316,7 @@
             },
             {
               "Name": "Still Life with Eggs, Birds and Bronze Dishes, Fresco from Pompeii",
-              "id": 34,
+              "id": 26,
               "Author": "Unknown",
               "Date": "1st century AD",
               "Description": "This fresco illustrates a still life scene with eggs, birds, and ornate bronze dishes, showcasing Roman daily life and luxury.",
@@ -402,7 +328,7 @@
             },
             {
               "Name": "Colosseum",
-              "id": 35,
+              "id": 27,
               "Author": "Unknown",
               "Date": "1st century AD",
               "Description": "The iconic Colosseum, a monumental amphitheatre in the center of Rome, known for gladiatorial contests and public spectacles.",
@@ -414,115 +340,85 @@
             },
             {
               "Name": "House of Venus, Fresco from Pompeii",
-              "id": 36,
+              "id": 28,
               "Author": "Unknown",
               "Date": "1st century AD",
               "Description": "A fresco from the House of Venus in Pompeii depicting the goddess Venus, showcasing the artistic elegance and detailed craftsmanship of Roman frescoes.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "National Archaeological Museum, Naples"
+              "Image": "https://pompeiiinpictures.com/pompeiiinpictures/R2/2%2003%2003%20part%2011_files/image026.jpg",
+              "Museum": "National Archaeological Museum, Naples",
+              "Link": "https://www.teachercurator.com/art/house-of-venus-in-the-shell/"
             },
             {
               "Name": "Relief of the Judgment of Paris",
-              "id": 37,
+              "id": 29,
               "Author": "Unknown",
               "Date": "2nd century AD",
               "Description": "A marble relief depicting the mythological story of the Judgment of Paris, where Paris is tasked with selecting the most beautiful goddess leading to the events of the Trojan War.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
+              "Image": "https://www.worldhistory.org/img/r/p/1500x1500/2121.jpg.webp?v=1716066187",
               "Museum": "Louvre Museum, Paris"
             },
             {
               "Name": "Zeus or Jupiter of Smyrna",
-              "id": 38,
+              "id": 30,
               "Author": "Unknown",
               "Date": "2nd century AD",
               "Description": "A grand statue of Zeus (Jupiter), originally from Smyrna, representing the king of the gods in classical mythology, noted for its imposing size and regal posture.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "British Museum, London"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg/576px-Jupiter_Smyrna_Louvre_Ma13.jpg",
+              "Museum": "British Museum, London",
+              "Era": "Classicism",
+              "Period": "Ancient Rome"
             },
             {
-              "Name": "Hercules Strangling a Serpent",
-              "id": 39,
-              "Author": "Unknown",
-              "Date": "2nd century AD",
-              "Description": "A dynamic sculpture showing Hercules, the hero of classical mythology, in the act of strangling a serpent, symbolic of his divine strength and heroic deeds.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Vatican Museums, Rome"
-            },
-            {
-              "Name": "Aqueduct of Segovia",
-              "id": 40,
-              "Author": "Roman Engineering",
-              "Date": "1st century AD",
-              "Description": "An ancient Roman aqueduct in Segovia, Spain, renowned for its remarkable state of preservation. It originally carried water from the Rio Frio to the city.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Segovia, Spain"
-            },
-            {
-              "Name": "Augustus of the Vatican Pio-Clementine Museum",
-              "id": 41,
+              "Name": "Augustus of Prima Porta",
+              "id": 31,
               "Author": "Unknown",
               "Date": "1st century AD",
               "Description": "A statue of Emperor Augustus, housed in the Vatican's Pio-Clementine Museum, showcasing Augustan propaganda through art.",
               "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Vatican Museums, Rome"
+              "Museum": "Vatican Museums, Rome",
+              "Link": "https://en.wikipedia.org/wiki/Augustus_of_Prima_Porta",
+              "Era": "Classicism",
+              "Period": "Ancient Rome"
             },
             {
               "Name": "Venus or Aphrodite of Syracuse",
-              "id": 42,
+              "id": 32,
               "Author": "Praxiteles",
               "Date": "4th century BC",
               "Description": "Attributed to the famed sculptor Praxiteles, this statue is a celebrated depiction of Aphrodite, highlighting classical Greek beauty and divinity.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Archaeological Museum of Syracuse, Italy"
+              "Image": "https://ancientrome.ru/art/artwork/sculp/mythology/gr/aphrodite/aph038.jpg",
+              "Museum": "Archaeological Museum of Syracuse, Italy",
+              "Era": "Classicism",
+              "Period": "Ancient Rome",
+              "Link": "https://en.wikipedia.org/wiki/Aphrodite_of_Syracuse"
             },
             {
               "Name": "Trajan's Column",
-              "id": 43,
+              "id": 33,
               "Author": "Apollodorus of Damascus",
               "Date": "113 AD",
               "Description": "A monumental column in Rome celebrating Emperor Trajan's victory in the Dacian Wars, famous for its spiral bas relief, which narrates the wars' history.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Rome, Italy"
-            },
-            {
-              "Name": "Jupiter or Zeus",
-              "id": 44,
-              "Author": "Unknown",
-              "Date": "Various",
-              "Description": "Statues and sculptures representing Zeus (Jupiter), the king of the gods in Greek and Roman mythology, depicted as a figure of power and authority.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Various locations"
-            },
-            {
-              "Name": "Heracles or Hercules Farnese, Roman copy",
-              "id": 45,
-              "Author": "Glykon of Athens",
-              "Date": "3rd century AD",
-              "Description": "A Roman copy of a lost original by Lysippos, this sculpture depicts Hercules in a moment of rest, holding the apples of the Hesperides.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "National Archaeological Museum, Naples"
-            },
-            {
-              "Name": "Glykon of Athens, original by Lysippos",
-              "id": 46,
-              "Author": "Lysippos",
-              "Date": "4th century BC",
-              "Description": "Known works by Lysippos include dynamic statues that introduced a new canon of proportions and a greater sense of movement to the depiction of the human body.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Various collections"
+              "Image": "https://www.wantedinrome.com/i/preview/storage/uploads/2018/09/trajan_column_rome.jpg",
+              "Museum": "Rome, Italy",
+              "Era": "Classicism",
+              "Period": "Ancient Rome",
+              "Link": "https://en.wikipedia.org/wiki/Trajan%27s_Column"
             },
             {
               "Name": "Sarcophagus of the Twelve Labors of Hercules",
-              "id": 47,
-              "Author": "Unknown",
+              "id": 34,
+              "Author": "Genzano",
               "Date": "2nd century AD",
               "Description": "A sarcophagus intricately carved with scenes from the twelve labors of Hercules, showcasing the hero's strength and divine challenges.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Vatican Museums, Rome"
+              "Image": "http://www.montallen.com/uploads/4/8/2/9/4829870/4170222_orig.jpg",
+              "Museum": "Vatican Museums, Rome",
+              "Era": "Classicism",
+              "Period": "Ancient Rome",
+              "Link": "http://www.montallen.com/roman-sarcophagus-news-blog/slaying-monsters-leaves-a-man-no-time-to-shave"
             },
             {
-              "Name": "Athena Parthenos, recreation by Alan LeQuire", 
-              "id": 48,
+              "Name": "Athena Parthenos, recreation by Alan LeQuire",
+              "id": 35,
               "Author": "Alan LeQuire",
               "Date": "1990",
               "Description": "A modern full-scale recreation of the Athena Parthenos statue originally crafted by Phidias, placed in the Parthenon in Nashville, Tennessee.",
@@ -562,7 +458,7 @@
               "Museum": "British Library, London"
             },
             {
-              "Name": "Sutton Hoo Helmet", 
+              "Name": "Sutton Hoo Helmet",
               "id": 51,
               "Author": "Unknown",
               "Date": "7th century AD",
