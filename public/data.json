@@ -220,11 +220,11 @@
               "Link": "https://en.wikipedia.org/wiki/Dying_Gaul"
             },
             {
-              "Name": "Young Woman with Stylus and Tablet (Sappho), Fresco from Pompeii",
+              "Name": "Young Woman with Stylus and Tablet",
               "id": 18,
               "Author": "Unknown",
               "Date": "1st century AD",
-              "Description": "A fresco from Pompeii depicting",
+              "Description": "A fresco from Pompeii",
               "Image": "https://www.worldhistory.org/img/r/p/1500x1500/3840.jpg.webp?v=1660678989",
               "Museum": "National Archaeological Museum, Naples",
               "Period": "Ancient Rome",
@@ -232,7 +232,7 @@
               "Link": "https://www.worldhistory.org/image/3840/sappho-fresco-pompeii/"
             },
             {
-              "Name": "The Punishment of Dirce, Fresco from Pompeii",
+              "Name": "The Punishment of Dirce",
               "id": 19,
               "Author": "Unknown",
               "Date": "1st century AD",
@@ -244,7 +244,7 @@
               "Link": "https://en.m.wikipedia.org/wiki/File:Wall_painting_-_punishment_of_Dirke_-_Pompeii_%28VII_4_56%29_-_Napoli_MAN_9042_-_01.jpg"
             },
             {
-              "Name": "Hercules and Omphale, Fresco from Pompeii",
+              "Name": "Hercules and Omphale",
               "id": 20,
               "Author": "Unknown",
               "Date": "1st century AD",
@@ -255,7 +255,7 @@
               "Era": "Classicism"
             },
             {
-              "Name": "Helen of Sparta on Her Way to Troy, Fresco from Pompeii",
+              "Name": "Helen of Sparta on Her Way to Troy",
               "id": 21,
               "Author": "Unknown",
               "Date": "1st century AD",
@@ -279,7 +279,7 @@
               "Link": "https://en.wikipedia.org/wiki/Fayum_mummy_portraits"
             },
             {
-              "Name": "Dionysus (seated on a throne) with Helios, Aphrodite and Other Gods, Fresco from Pompeii",
+              "Name": "Dionysus with Helios, Aphrodite and Other Gods",
               "id": 23,
               "Author": "Unknown",
               "Date": "1st century AD",
@@ -303,19 +303,7 @@
               "Link": "https://en.wikipedia.org/wiki/Laoco%C3%B6n_and_His_Sons"
             },
             {
-              "Name": "Pont du Gard (France)",
-              "id": 25,
-              "Author": "Unknown",
-              "Date": "1st century AD",
-              "Description": "An ancient Roman aqueduct bridge that crosses the Gardon River in southern France, exemplifying Roman architectural brilliance and utility.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/600px-Pont_du_Gard_BLS.jpg",
-              "Museum": "Near Nîmes, France",
-              "Period": "Ancient Rome",
-              "Era": "Classicism",
-              "Link": "https://en.wikipedia.org/wiki/Pont_du_Gard"
-            },
-            {
-              "Name": "Still Life with Eggs, Birds and Bronze Dishes, Fresco from Pompeii",
+              "Name": "Still Life with Eggs, Birds and Bronze Dishes",
               "id": 26,
               "Author": "Unknown",
               "Date": "1st century AD",
@@ -339,7 +327,7 @@
               "Link": "https://en.wikipedia.org/wiki/Colosseum"
             },
             {
-              "Name": "House of Venus, Fresco from Pompeii",
+              "Name": "House of Venus",
               "id": 28,
               "Author": "Unknown",
               "Date": "1st century AD",
@@ -358,7 +346,7 @@
               "Museum": "Louvre Museum, Paris"
             },
             {
-              "Name": "Zeus or Jupiter of Smyrna",
+              "Name": "Jupiter of Smyrna",
               "id": 30,
               "Author": "Unknown",
               "Date": "2nd century AD",
@@ -374,14 +362,14 @@
               "Author": "Unknown",
               "Date": "1st century AD",
               "Description": "A statue of Emperor Augustus, housed in the Vatican's Pio-Clementine Museum, showcasing Augustan propaganda through art.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
+              "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnFreEs3roff2vhuxnpKq5LujFyaq_L2LO2Vu4N5bDJd0SoENTsrf_Vhv90vdFAO8bR6zfyd8Kp5puPm47V4nkz5ZpKRx0bCmCGgtW_xuW3Gr7I5udCz7oYvdIzhBdGM3cKxU4HyRmtx0/s1600/Restorations_07.jpg",
               "Museum": "Vatican Museums, Rome",
               "Link": "https://en.wikipedia.org/wiki/Augustus_of_Prima_Porta",
               "Era": "Classicism",
               "Period": "Ancient Rome"
             },
             {
-              "Name": "Venus or Aphrodite of Syracuse",
+              "Name": "Venus of Syracuse",
               "id": 32,
               "Author": "Praxiteles",
               "Date": "4th century BC",
@@ -415,15 +403,6 @@
               "Era": "Classicism",
               "Period": "Ancient Rome",
               "Link": "http://www.montallen.com/roman-sarcophagus-news-blog/slaying-monsters-leaves-a-man-no-time-to-shave"
-            },
-            {
-              "Name": "Athena Parthenos, recreation by Alan LeQuire",
-              "id": 35,
-              "Author": "Alan LeQuire",
-              "Date": "1990",
-              "Description": "A modern full-scale recreation of the Athena Parthenos statue originally crafted by Phidias, placed in the Parthenon in Nashville, Tennessee.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Parthenon, Nashville, Tennessee"
             }
           ]
         }
@@ -436,52 +415,70 @@
       "Picture": "https://i.pinimg.com/564x/21/5c/57/215c5737519ebec7099330ff83af3deb.jpg",
       "Periods": {
         "EarlyMedieval": {
+          "id": "EarlyMedieval",
+          "Era": "Medieval Era",
           "Period": "Early Medieval",
           "Years": "500 - 1000 AD",
           "Works": [
             {
-              "Name": "Book of Kells",
-              "id": 49,
+              "Name": "Sarcophagus of the Passion of Christ",
+              "id": 35,
               "Author": "Unknown",
-              "Date": "9th century AD",
-              "Description": "The Book of Kells is an illuminated manuscript Gospel book in Latin, containing the four Gospels of the New Testament together with various prefatory texts and tables.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Trinity College Library, Dublin"
+              "Date": "350",
+              "Description": "A sarcophagus depicting the Passion of Christ.",
+              "Image": "https://www.museivaticani.va/content/dam/museivaticani/immagini/collezioni/musei/museo_pio_cristiano/06_02_Sarcofago_scene_Passione_Cristo_dettaglio.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+              "Museum": "Vatican Museum, Rome",
+              "Era": "MedievalEra",
+              "Period": "EarlyMedieval",
+              "Link": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-cristiano/sarcofagi-_a-colonne/sarcofago-con-scene-della-passione-di-cristo.html#:~:text=This%20sarcophagus%20(c.,pediments%2C%20from%20which%20wreaths%20hang."
             },
             {
-              "Name": "Lindisfarne Gospels",
-              "id": 50,
+              "Name": "Sarcophagus of Junius Bassus",
+              "id": 36,
               "Author": "Unknown",
-              "Date": "8th century AD",
-              "Description": "The Lindisfarne Gospels is an illuminated manuscript Gospel book in Latin, containing the Gospels of Matthew, Mark, Luke, and John, along with other texts and decorations.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "British Library, London"
+              "Date": "350",
+              "Description": "A sarcophagus belonging to Junius Bassus.",
+              "Image": "https://www.ancient-origins.net/sites/default/files/field/image/Sarcophagus-of-Junius-Bassus.jpg",
+              "Museum": "San Pietro Treasure Museum, Rome",
+              "Era": "Medieval Era",
+              "Period": "Early Medieval",
+              "Link": "https://en.wikipedia.org/wiki/Sarcophagus_of_Junius_Bassus"
             },
             {
-              "Name": "Sutton Hoo Helmet",
-              "id": 51,
+              "Name": "Apse of the Basilica of Santa Prudenciana",
+              "id": 37,
               "Author": "Unknown",
-              "Date": "7th century AD",
-              "Description": "The Sutton Hoo Helmet is a decorated Anglo-Saxon helmet discovered during the excavation of the Sutton Hoo ship burial, one of the most significant archaeological finds in England.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "British Museum, London"
+              "Date": "390",
+              "Description": "The apse of the Basilica of Santa Prudenciana.",
+              "Image": "https://smarthistory.org/wp-content/uploads/2023/08/52669884145_ba335b78f2_o-scaled.jpg",
+              "Museum": "Rome",
+              "Era": "Medieval Era",
+              "Period": "Early Medieval",
+              "Link": "https://www.khanacademy.org/humanities/medieval-world/early-christian-art/early-christian-architecture/a/santa-pudenziana"
             },
             {
-              "Name": "The Utrecht Psalter",
-              "id": 52,
+              "Name": "Pantocrator of Sinai",
+              "id": 38,
               "Author": "Unknown",
-              "Date": "9th century AD",
-              "Description": "The Utrecht Psalter is a ninth-century illuminated psalter which is a key masterpiece of Carolingian art; it is probably the most valuable manuscript in the Netherlands.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3"
+              "Date": "6th century",
+              "Description": "A depiction of the Pantocrator from the Monastery of Saint Catherine.",
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+              "Museum": "Monastery of Saint Catherine, Mount Sinai, Egypt",
+              "Era": "Medieval Era",
+              "Period": "Early Medieval",
+              "Link": "https://en.wikipedia.org/wiki/Christ_Pantocrator_%28Sinaai%29"
             },
             {
-              "Name": "The Bayeux Tapestry",
-              "id": 53,
+              "Name": "Monogram of the Incarnation (Book of Kells)",
+              "id": 39,
               "Author": "Unknown",
-              "Date": "11th century AD",
-              "Description": "The Bayeux Tapestry is an embroidered cloth nearly 70 meters long and 50 centimeters tall, which depicts the events leading up to the Norman conquest of England concerning William, Duke of Normandy, and Harold, Earl of Wessex, later King of England, and culminating in the Battle of Hastings.",
-              "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kouros_An%C3%B3nimo_01.jpg",
-              "Museum": "Bayeux Museum, France"
+              "Date": "c. 800",
+              "Description": "A page from the Book of Kells showing the Monogram of the Incarnation.",
+              "Image": "https://kathythepicturelady.wordpress.com/wp-content/uploads/2014/12/kells-chi-rho.jpg?w=624",
+              "Museum": "Trinity College Library, Dublin",
+              "Era": "Medieval Era",
+              "Period": "Early Medieval",
+              "Link": "https://en.wikipedia.org/wiki/Book_of_Kells#:~:text=Folio%2034r%20contains%20the%20Chi,Christ%20enthroned%2C%20flanked%20by%20peacocks."
             }
           ]
         },
@@ -490,18 +487,201 @@
           "Years": "1000 - 1150 AD",
           "Works": [
             {
-              "Name": "Speyer Cathedral",
-              "id": 54,
+              "Name": "Church of San Martín",
+              "id": 40,
               "Author": "Unknown",
-              "Date": "11th century AD",
-              "Description": "Speyer Cathedral, officially the Imperial Cathedral"
+              "Date": "12th century",
+              "Description": "A Romanesque church located in Segovia, Spain.",
+              "Image": "",
+              "Museum": "Segovia, Spain"
+            },
+            {
+              "Name": "Pantocrator of the Apse of San Clemente de Tahull",
+              "id": 41,
+              "Author": "Master of Tahull",
+              "Date": "c. 1123",
+              "Description": "A famous Romanesque fresco located in the apse of San Clemente de Tahull.",
+              "Image": "",
+              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona"
+            },
+            {
+              "Name": "Frontal of La Seo de Urgel",
+              "id": 42,
+              "Author": "Unknown",
+              "Date": "1125-1150",
+              "Description": "A Romanesque altarpiece from La Seo de Urgel.",
+              "Image": "",
+              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona"
+            },
+            {
+              "Name": "Judith and Holofernes on an Ivory Piece from the Trictrac Board Game",
+              "id": 43,
+              "Author": "Unknown",
+              "Date": "12th century",
+              "Description": "An ivory piece depicting Judith and Holofernes from the Trictrac board game.",
+              "Image": "",
+              "Museum": "Louvre Museum, Paris"
+            },
+            {
+              "Name": "Baldachin of Tost",
+              "id": 44,
+              "Author": "Unknown",
+              "Date": "c. 1220",
+              "Description": "A Romanesque baldachin from the Tost region.",
+              "Image": "",
+              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona"
             }
           ]
         },
         "Gothic": {
           "Period": "Gothic",
           "Years": "1150 - 1500 AD",
-          "Works": []
+          "Works": [
+            {
+              "Name": "Cathedral of Santa María de León",
+              "id": 45,
+              "Author": "Unknown",
+              "Date": "1202-1302",
+              "Description": "A Gothic cathedral located in León, Spain.",
+              "Image": "",
+              "Museum": "León, Spain"
+            },
+            {
+              "Name": "Illustrated Bible of The Hague",
+              "id": 46,
+              "Author": "Unknown",
+              "Date": "13th century",
+              "Description": "An illustrated Bible from The Hague.",
+              "Image": "",
+              "Museum": "National Library of the Netherlands"
+            },
+            {
+              "Name": "Altar Frontal of Mosoll",
+              "id": 47,
+              "Author": "Unknown",
+              "Date": "13th century",
+              "Description": "A Gothic altarpiece from Mosoll.",
+              "Image": "",
+              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona"
+            },
+            {
+              "Name": "The Expulsion of Joachim from the Temple",
+              "id": 48,
+              "Author": "Giotto",
+              "Date": "1303-1305",
+              "Description": "A fresco depicting the expulsion of Joachim from the temple.",
+              "Image": "",
+              "Museum": "Scrovegni Chapel, Civic Museum of Padua, Italy"
+            },
+            {
+              "Name": "Adoration of the Magi",
+              "id": 49,
+              "Author": "Giotto",
+              "Date": "c. 1305",
+              "Description": "A painting depicting the Adoration of the Magi.",
+              "Image": "",
+              "Museum": "Prado Museum, Madrid"
+            },
+            {
+              "Name": "Maestà",
+              "id": 50,
+              "Author": "Duccio di Buoninsegna",
+              "Date": "1308-1311",
+              "Description": "A large altarpiece painted by Duccio di Buoninsegna.",
+              "Image": "",
+              "Museum": "Siena Cathedral, Italy"
+            },
+            {
+              "Name": "Mosaics of the Church of Kahrié-Djami",
+              "id": 51,
+              "Author": "Master of the Church of Kahrié-Djami",
+              "Date": "1315-1320",
+              "Description": "Mosaics located in the Church of the Holy Savior in Chora.",
+              "Image": "",
+              "Museum": "Church of the Holy Savior in Chora, Istanbul"
+            },
+            {
+              "Name": "Book of the City of Ladies",
+              "id": 52,
+              "Author": "Christine de Pizan",
+              "Date": "15th century",
+              "Description": "A famous work by Christine de Pizan.",
+              "Image": "",
+              "Museum": "National Library of France, Paris"
+            },
+            {
+              "Name": "Christine de Pizan and Her Son",
+              "id": 53,
+              "Author": "Bedford Master",
+              "Date": "c. 1413",
+              "Description": "A manuscript depicting Christine de Pizan and her son.",
+              "Image": "",
+              "Museum": "British Library, London"
+            },
+            {
+              "Name": "The Descent from the Cross",
+              "id": 54,
+              "Author": "Rogier van der Weyden",
+              "Date": "1435",
+              "Description": "A painting depicting the descent of Christ from the cross.",
+              "Image": "",
+              "Museum": "Prado Museum, Madrid"
+            },
+            {
+              "Name": "Annunciation",
+              "id": 55,
+              "Author": "Fra Angelico",
+              "Date": "1437-1446",
+              "Description": "A painting depicting the Annunciation.",
+              "Image": "",
+              "Museum": "Prado Museum, Madrid"
+            },
+            {
+              "Name": "Charlemagne at Dinner",
+              "id": 56,
+              "Author": "Talbot Master",
+              "Date": "1444",
+              "Description": "A depiction of Charlemagne at dinner.",
+              "Image": "",
+              "Museum": "British Library, London"
+            },
+            {
+              "Name": "Jean Miélot at His Desk",
+              "id": 57,
+              "Author": "Unknown",
+              "Date": "15th century",
+              "Description": "A depiction of Jean Miélot at his desk.",
+              "Image": "",
+              "Museum": "Royal Library of Belgium, Brussels"
+            },
+            {
+              "Name": "Resurrection",
+              "id": 58,
+              "Author": "Hans Memling",
+              "Date": "1475",
+              "Description": "A painting depicting the Resurrection of Christ.",
+              "Image": "",
+              "Museum": "Museum of Fine Arts, Budapest"
+            },
+            {
+              "Name": "Charlemagne and Pope Adrian",
+              "id": 59,
+              "Author": "Antoine Vérard",
+              "Date": "1493",
+              "Description": "A depiction of Charlemagne and Pope Adrian.",
+              "Image": "",
+              "Museum": "British Library, London"
+            },
+            {
+              "Name": "Early 16th Century French Printing",
+              "id": 60,
+              "Author": "Unknown",
+              "Date": "16th century",
+              "Description": "An early French printing from the 16th century.",
+              "Image": "",
+              "Museum": "National Library of France, Paris"
+            }
+          ]
         }
       }
     },
