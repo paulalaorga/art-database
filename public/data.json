@@ -492,8 +492,11 @@
               "Author": "Unknown",
               "Date": "12th century",
               "Description": "A Romanesque church located in Segovia, Spain.",
-              "Image": "",
-              "Museum": "Segovia, Spain"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Segovia_-_San_Martin_07.jpg/640px-Segovia_-_San_Martin_07.jpg",
+              "Museum": "Segovia, Spain",
+              "Era": "Medieval Era",
+              "Period": "Romanesque",
+              "Link": "https://en.wikipedia.org/wiki/Iglesia_de_San_Mart%C3%ADn_(Segovia)"
             },
             {
               "Name": "Pantocrator of the Apse of San Clemente de Tahull",
@@ -501,8 +504,11 @@
               "Author": "Master of Tahull",
               "Date": "c. 1123",
               "Description": "A famous Romanesque fresco located in the apse of San Clemente de Tahull.",
-              "Image": "",
-              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona"
+              "Image": "https://www.mediastorehouse.com.au/p/731/pantocrator-mural-painting-apse-church-san-15196238.jpg.webp",
+              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona",
+              "Era": "Medieval Era",
+              "Period": "Romanesque",
+              "Link": "https://en.wikipedia.org/wiki/Sant_Climent_de_Ta%C3%BCll"
             },
             {
               "Name": "Frontal of La Seo de Urgel",
@@ -510,8 +516,11 @@
               "Author": "Unknown",
               "Date": "1125-1150",
               "Description": "A Romanesque altarpiece from La Seo de Urgel.",
-              "Image": "",
-              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%28Barcelona%29_Altar_frontal_from_La_Seu_d%27Urgell_or_of_the_Apostles_-_Museu_Nacional_d%27Art_de_Catalunya.jpg/1280px-%28Barcelona%29_Altar_frontal_from_La_Seu_d%27Urgell_or_of_the_Apostles_-_Museu_Nacional_d%27Art_de_Catalunya.jpg",
+              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona",
+              "Era": "Medieval Era",
+              "Period": "Romanesque",
+              "Link": "https://en.wikipedia.org/wiki/Frontal_of_La_Seo_de_Urgel"
             },
             {
               "Name": "Judith and Holofernes on an Ivory Piece from the Trictrac Board Game",
@@ -519,8 +528,11 @@
               "Author": "Unknown",
               "Date": "12th century",
               "Description": "An ivory piece depicting Judith and Holofernes from the Trictrac board game.",
-              "Image": "",
-              "Museum": "Louvre Museum, Paris"
+              "Image": "https://i.pinimg.com/originals/0d/44/77/0d4477d65b832825caf5324dc1e2b74c.jpg",
+              "Museum": "Louvre Museum, Paris",
+              "Era": "Medieval Era",
+              "Period": "Romanesque",
+              "Link": "https://en.wikipedia.org/wiki/Judith_and_Holofernes_(Trictrac_piece)"
             },
             {
               "Name": "Baldachin of Tost",
@@ -528,8 +540,11 @@
               "Author": "Unknown",
               "Date": "c. 1220",
               "Description": "A Romanesque baldachin from the Tost region.",
-              "Image": "",
-              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/MNAC.Baldaqu%C3%AD_Tost.jpg/600px-MNAC.Baldaqu%C3%AD_Tost.jpg",
+              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona",
+              "Era": "Medieval Era",
+              "Period": "Romanesque",
+              "Link": "https://en.wikipedia.org/wiki/Baldachin_from_Tost"
             }
           ]
         },
@@ -543,8 +558,11 @@
               "Author": "Unknown",
               "Date": "1202-1302",
               "Description": "A Gothic cathedral located in León, Spain.",
-              "Image": "",
-              "Museum": "León, Spain"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Leon_cathedral_facade.jpg/1070px-Leon_cathedral_facade.jpg",
+              "Museum": "León, Spain",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://en.wikipedia.org/wiki/Le%C3%B3n_Cathedral"
             },
             {
               "Name": "Illustrated Bible of The Hague",
@@ -552,8 +570,11 @@
               "Author": "Unknown",
               "Date": "13th century",
               "Description": "An illustrated Bible from The Hague.",
-              "Image": "",
-              "Museum": "National Library of the Netherlands"
+              "Image": "https://www.facsimiles.com/fileadmin/_processed_/wmimages/biblia-ilustrada-de-la-haya_003340_06-70a3c7359f.jpg",
+              "Museum": "National Library of the Netherlands",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://www.facsimilefinder.com/facsimiles/illustrated-bible-hague-facsimile"
             },
             {
               "Name": "Altar Frontal of Mosoll",
@@ -561,8 +582,12 @@
               "Author": "Unknown",
               "Date": "13th century",
               "Description": "A Gothic altarpiece from Mosoll.",
-              "Image": "",
-              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/074_Frontal_d%27altar_de_Mosoll%2C_els_Reis_d%27Orient.jpg/1600px-074_Frontal_d%27altar_de_Mosoll%2C_els_Reis_d%27Orient.jpg",
+              "Museum": "National Art Museum of Catalonia (MNAC), Barcelona",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://www.museunacional.cat/es/colleccio/frontal-de-altar-de-mosoll/anonim-catalunya-taller-de-la-seu-durgell-del-1200/015788-000"
+
             },
             {
               "Name": "The Expulsion of Joachim from the Temple",
@@ -570,8 +595,11 @@
               "Author": "Giotto",
               "Date": "1303-1305",
               "Description": "A fresco depicting the expulsion of Joachim from the temple.",
-              "Image": "",
-              "Museum": "Scrovegni Chapel, Civic Museum of Padua, Italy"
+              "Image": "https://i2.wp.com/www.identifythisart.com/gallery/renaissance/12/bg/ghirlandaio_the_expulsion_of_joachim_from_the_temple.jpg?fit=1024%2C1024&ssl=1",
+              "Museum": "Scrovegni Chapel, Civic Museum of Padua, Italy",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://www.identifythisart.com/art-movements-styles/pre-modern-art/renaissance-art-movement/the-expulsion-of-joachim-from-the-temple-by-domenico-ghirlandaio/"
             },
             {
               "Name": "Adoration of the Magi",
@@ -579,8 +607,11 @@
               "Author": "Giotto",
               "Date": "c. 1305",
               "Description": "A painting depicting the Adoration of the Magi.",
-              "Image": "",
-              "Museum": "Prado Museum, Madrid"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gerard_David_-_Adoration_of_the_Kings_-_Google_Art_Project.jpg/600px-Gerard_David_-_Adoration_of_the_Kings_-_Google_Art_Project.jpg",
+              "Museum": "Prado Museum, Madrid",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi"
             },
             {
               "Name": "Maestà",
@@ -588,8 +619,11 @@
               "Author": "Duccio di Buoninsegna",
               "Date": "1308-1311",
               "Description": "A large altarpiece painted by Duccio di Buoninsegna.",
-              "Image": "",
-              "Museum": "Siena Cathedral, Italy"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Duccio_maesta1021.jpg/600px-Duccio_maesta1021.jpg",
+              "Museum": "Siena Cathedral, Italy",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://es.wikipedia.org/wiki/Maest%C3%A0_(Duccio)"
             },
             {
               "Name": "Mosaics of the Church of Kahrié-Djami",
@@ -597,8 +631,11 @@
               "Author": "Master of the Church of Kahrié-Djami",
               "Date": "1315-1320",
               "Description": "Mosaics located in the Church of the Holy Savior in Chora.",
-              "Image": "",
-              "Museum": "Church of the Holy Savior in Chora, Istanbul"
+              "Image": "https://www.hellenicaworld.com/Art/Paintings/ML/Part15373.jpg",
+              "Museum": "Church of the Holy Savior in Chora, Istanbul",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://www.thebyzantinelegacy.com/chora"
             },
             {
               "Name": "Book of the City of Ladies",
@@ -606,8 +643,11 @@
               "Author": "Christine de Pizan",
               "Date": "15th century",
               "Description": "A famous work by Christine de Pizan.",
-              "Image": "",
-              "Museum": "National Library of France, Paris"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Meister_der_%27Cit%C3%A9_des_Dames%27_002.jpg/440px-Meister_der_%27Cit%C3%A9_des_Dames%27_002.jpg",
+              "Museum": "National Library of France, Paris",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://en.wikipedia.org/wiki/The_Book_of_the_City_of_Ladies"
             },
             {
               "Name": "Christine de Pizan and Her Son",
@@ -615,8 +655,11 @@
               "Author": "Bedford Master",
               "Date": "c. 1413",
               "Description": "A manuscript depicting Christine de Pizan and her son.",
-              "Image": "",
-              "Museum": "British Library, London"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Christine_de_Pisan_-_cathedra.jpg",
+              "Museum": "British Library, London",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://en.wikipedia.org/wiki/Christine_de_Pizan"
             },
             {
               "Name": "The Descent from the Cross",
@@ -624,8 +667,11 @@
               "Author": "Rogier van der Weyden",
               "Date": "1435",
               "Description": "A painting depicting the descent of Christ from the cross.",
-              "Image": "",
-              "Museum": "Prado Museum, Madrid"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Weyden_Deposition.jpg/1522px-Weyden_Deposition.jpg",
+              "Museum": "Prado Museum, Madrid",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://en.wikipedia.org/wiki/The_Descent_from_the_Cross_(van_der_Weyden)"
             },
             {
               "Name": "Annunciation",
@@ -633,8 +679,11 @@
               "Author": "Fra Angelico",
               "Date": "1437-1446",
               "Description": "A painting depicting the Annunciation.",
-              "Image": "",
-              "Museum": "Prado Museum, Madrid"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/La_Anunciaci%C3%B3n_de_Fra_Angelico.jpg/540px-La_Anunciaci%C3%B3n_de_Fra_Angelico.jpg",
+              "Museum": "Prado Museum, Madrid",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://www.museodelprado.es/coleccion/obra-de-arte/la-anunciacion/f8e45a6f-7645-4e53-9fd5-cbdae7e8faac"
             },
             {
               "Name": "Charlemagne at Dinner",
@@ -642,8 +691,11 @@
               "Author": "Talbot Master",
               "Date": "1444",
               "Description": "A depiction of Charlemagne at dinner.",
-              "Image": "",
-              "Museum": "British Library, London"
+              "Image": "https://www.historyhit.com/app/uploads/2020/07/charlemagne-dinner-1.jpg?x15493",
+              "Museum": "British Library, London",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://az.wikipedia.org/wiki/Fayl:Charlemagne_at_dinner_-_British_Library_Royal_MS_15_E_vi_f155r_(detail).jpg"
             },
             {
               "Name": "Jean Miélot at His Desk",
@@ -651,8 +703,11 @@
               "Author": "Unknown",
               "Date": "15th century",
               "Description": "A depiction of Jean Miélot at his desk.",
-              "Image": "",
-              "Museum": "Royal Library of Belgium, Brussels"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tavernier_Jean_Mielot.jpg/440px-Tavernier_Jean_Mielot.jpg",
+              "Museum": "Royal Library of Belgium, Brussels",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://en.wikipedia.org/wiki/Jean_Mi%C3%A9lot"
             },
             {
               "Name": "Resurrection",
@@ -660,8 +715,12 @@
               "Author": "Hans Memling",
               "Date": "1475",
               "Description": "A painting depicting the Resurrection of Christ.",
-              "Image": "",
-              "Museum": "Museum of Fine Arts, Budapest"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Hans_Memling_-_Triptych_of_the_Resurrection_-_WGA14986.jpg?20110604065751",
+              "Museum": "Museum of Fine Arts, Budapest",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://www.artsy.net/artwork/hans-memling-triptych-of-the-resurrection-with-saint-sebastian-left-wing-and-ascension-of-christ-right-wing"
+
             },
             {
               "Name": "Charlemagne and Pope Adrian",
@@ -669,8 +728,11 @@
               "Author": "Antoine Vérard",
               "Date": "1493",
               "Description": "A depiction of Charlemagne and Pope Adrian.",
-              "Image": "",
-              "Museum": "British Library, London"
+              "Image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Charlemagne_and_Pope_Adrian_I.jpg",
+              "Museum": "British Library, London",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://en.m.wikipedia.org/wiki/File:Charlemagne_and_Pope_Adrian_I.jpg"
             },
             {
               "Name": "Early 16th Century French Printing",
@@ -678,8 +740,11 @@
               "Author": "Unknown",
               "Date": "16th century",
               "Description": "An early French printing from the 16th century.",
-              "Image": "",
-              "Museum": "National Library of France, Paris"
+              "Image": "https://printinginfrance.edwardworthlibrary.ie/wp-content/uploads/2023/05/Image-1-Simon-Colines-device.jpg",
+              "Museum": "National Library of France, Paris",
+              "Era": "Medieval Era",
+              "Period": "Gothic",
+              "Link": "https://printinginfrance.edwardworthlibrary.ie/"
             }
           ]
         }
@@ -694,7 +759,492 @@
         "Renaissance": {
           "Period": "Renaissance",
           "Years": "1400 - 1600",
-          "Works": []
+          "Works": [
+            [
+              {
+                  "Name": "Ten Books on Architecture",
+                  "id": 61,
+                  "Author": "Vitruvius",
+                  "Date": "1st century BC",
+                  "Description": "A seminal work on architecture from the Roman architect Vitruvius.",
+                  "Image": "https://www.cabinet.ox.ac.uk/sites/default/files/images/sources/Vitruvius.png",
+                  "Museum": "",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://www.cabinet.ox.ac.uk/vitruvius-architecture"
+              },
+              {
+                  "Name": "Portrait of Pope Nicholas IV",
+                  "id": 62,
+                  "Author": "Unknown",
+                  "Date": "1400",
+                  "Description": "A portrait of Pope Nicholas IV from the early Renaissance period.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Papa_Niccol%C3%B2_IV%2C_Basilica_di_Santa_Maria_Maggiore_a_Roma.jpg/440px-Papa_Niccol%C3%B2_IV%2C_Basilica_di_Santa_Maria_Maggiore_a_Roma.jpg",
+                  "Museum": "Pinacoteca Civica, Italy",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Pope_Nicholas_IV"
+              },
+              {
+                  "Name": "The Pietà",
+                  "id": 63,
+                  "Author": "Michelangelo Buonarroti",
+                  "Date": "1435-1440",
+                  "Description": "A depiction of the Virgin Mary holding the dead body of Jesus Christ.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pieta_de_Michelangelo_-_Vaticano.jpg/1143px-Pieta_de_Michelangelo_-_Vaticano.jpg",
+                  "Museum": "St. Peter's Basilica, Vatican City",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Michelangelo)"
+              },
+              {
+                  "Name": "Head of a Girl",
+                  "id": 64,
+                  "Author": "Leonardo da Vinci",
+                  "Date": "1470-1476",
+                  "Description": "A drawing of a young girl's head by Leonardo da Vinci.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Head_of_a_Woman%2C_after_Leonardo_da_Vinci.jpg/916px-Head_of_a_Woman%2C_after_Leonardo_da_Vinci.jpg",
+                  "Museum": "National Gallery of Parma, Italy",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://www.metmuseum.org/art/collection/search/656458"
+              },
+              {
+                  "Name": "The Return of Judith to Bethulia",
+                  "id": 65,
+                  "Author": "Sandro Botticelli",
+                  "Date": "1472-1473",
+                  "Description": "A painting depicting Judith returning to Bethulia after beheading Holofernes.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sandro_Botticelli_020.jpg/886px-Sandro_Botticelli_020.jpg",
+                  "Museum": "Uffizi Gallery, Florence",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://artehistoria.com/obras/regreso-de-judith-betulia"
+              },
+              {
+                  "Name": "Polyptych of Saint Gregory",
+                  "id": 66,
+                  "Author": "Antonello da Messina",
+                  "Date": "1473",
+                  "Description": "A multi-panel painting by Antonello da Messina.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Antonello_da_Messina_045.jpg/480px-Antonello_da_Messina_045.jpg",
+                  "Museum": "Uffizi Gallery, Florence",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/San_Gregorio_Polyptych#:~:text=San%20Gregorio%20Polyptych%20is%20a,Regional%20Museum%20of%20Messina%2C%20Italy."
+              },
+              {
+                  "Name": "Hercules and the Hydra",
+                  "id": 67,
+                  "Author": "Antonio del Pollaiolo",
+                  "Date": "c. 1475",
+                  "Description": "A painting depicting the mythological battle between Hercules and the Hydra.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Antonio_del_Pollaiolo_-_Ercole_e_l%27Idra_e_Ercole_e_Anteo_-_Google_Art_Project.jpg/844px-Antonio_del_Pollaiolo_-_Ercole_e_l%27Idra_e_Ercole_e_Anteo_-_Google_Art_Project.jpg",
+                  "Museum": "Regional Museum of Messina, Italy",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Hercules_and_the_Hydra_%28Pollaiuolo%29"
+              },
+              {
+                  "Name": "The Adoration of the Magi",
+                  "id": 68,
+                  "Author": "Sandro Botticelli",
+                  "Date": "1475",
+                  "Description": "A painting depicting the adoration of the Magi.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Botticelli_-_Adoration_of_the_Magi_%28Zanobi_Altar%29_-_Uffizi.jpg/700px-Botticelli_-_Adoration_of_the_Magi_%28Zanobi_Altar%29_-_Uffizi.jpg",
+                  "Museum": "Prado Museum, Madrid",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_%28Botticelli,_1475%29"
+              },
+              {
+                  "Name": "The Birth of Venus",
+                  "id": 69,
+                  "Author": "Sandro Botticelli",
+                  "Date": "1482-1485",
+                  "Description": "A painting depicting the goddess Venus emerging from the sea.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/800px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+                  "Museum": "Uffizi Gallery, Florence",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/The_Birth_of_Venus"
+              },
+              {
+                  "Name": "The Judgment of Paris",
+                  "id": 70,
+                  "Author": "Workshop of Botticelli",
+                  "Date": "1485",
+                  "Description": "A painting depicting the mythological judgment of Paris.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botticelli-Juicio-de-Paris.jpg/1600px-Botticelli-Juicio-de-Paris.jpg",
+                  "Museum": "Prado Museum, Madrid",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.m.wikipedia.org/wiki/File:Botticelli-Juicio-de-Paris.jpg"
+              },
+              {
+                  "Name": "Lady with an Ermine",
+                  "id": 71,
+                  "Author": "Leonardo da Vinci",
+                  "Date": "1489-1491",
+                  "Description": "A portrait of a young woman holding an ermine.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg/480px-Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg",
+                  "Museum": "National Museum, Krakow",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine"
+              },
+              {
+                  "Name": "Diary of Leonardo da Vinci: Hemisection of a Man and a Woman in the Act of Coitus",
+                  "id": 72,
+                  "Author": "Leonardo da Vinci",
+                  "Date": "1490-1492",
+                  "Description": "An anatomical drawing by Leonardo da Vinci.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Coition_of_a_Hemisected_Man_and_Woman.jpg",
+                  "Museum": "Royal Library, Windsor Castle",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.m.wikipedia.org/wiki/File:Coition_of_a_Hemisected_Man_and_Woman.jpg"
+              },
+              {
+                  "Name": "Diary of Leonardo da Vinci: Sketch of a Snail Shell",
+                  "id": 73,
+                  "Author": "Leonardo da Vinci",
+                  "Date": "c. 1492",
+                  "Description": "A sketch of a snail shell by Leonardo da Vinci.",
+                  "Image": "https://i.pinimg.com/564x/1d/05/bd/1d05bde1abe9fa9914e673424800a9aa.jpg",
+                  "Museum": "National Art Library, London",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://www.vam.ac.uk/articles/leonardo-da-vincis-notebooks"
+              },
+              {
+                  "Name": "Songbook of Elvas Romances - Cabalgada de Peranzules",
+                  "id": 74,
+                  "Author": "Unknown",
+                  "Date": "1490-1575",
+                  "Description": "A collection of romances from the Elvas Songbook.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CancioneiroDeElvas.jpg/800px-CancioneiroDeElvas.jpg",
+                  "Museum": "Public Library Publia Hortensia, Elvas, Portugal",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Cancioneiro_de_Elvas"
+              },
+              {
+                  "Name": "Judith with the Head of Holofernes",
+                  "id": 75,
+                  "Author": "Hartmann Schedel",
+                  "Date": "1493",
+                  "Description": "An illustration depicting Judith holding the head of Holofernes.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Nuremberg_chronicles_f_69r_2.png",
+                  "Museum": "",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.m.wikipedia.org/wiki/File:Nuremberg_chronicles_f_69r_2.png"
+              },
+              {
+                  "Name": "Vitruvian Man",
+                  "id": 76,
+                  "Author": "Leonardo da Vinci",
+                  "Date": "c. 1492",
+                  "Description": "A drawing depicting the ideal human proportions.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/540px-Da_Vinci_Vitruve_Luc_Viatour.jpg",
+                  "Museum": "Gallerie dell'Accademia, Venice",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Vitruvian_Man"
+              },
+              {
+                  "Name": "Diary of Leonardo da Vinci: Anatomical Studies",
+                  "id": 77,
+                  "Author": "Leonardo da Vinci",
+                  "Date": "c. 1492",
+                  "Description": "Anatomical studies by Leonardo da Vinci.",
+                  "Image": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2F484314a/MediaObjects/41586_2012_Article_BF484314a_Fig2_HTML.jpg?as=webp",
+                  "Museum": "Ambrosiana Library, Milan",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://www.nature.com/articles/484314a"
+              },
+              {
+                  "Name": "The Last Supper",
+                  "id": 79,
+                  "Author": "Leonardo da Vinci",
+                  "Date": "1495-1498",
+                  "Description": "A mural painting depicting Jesus and his disciples at the Last Supper.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/700px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg",
+                  "Museum": "Santa Maria delle Grazie, Milan",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)"
+              },
+              {
+                  "Name": "Mystic Nativity",
+                  "id": 81,
+                  "Author": "Sandro Botticelli",
+                  "Date": "1500",
+                  "Description": "A painting depicting the nativity scene.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mystic_Nativity%2C_Sandro_Botticelli.jpg/640px-Mystic_Nativity%2C_Sandro_Botticelli.jpg",
+                  "Museum": "National Gallery, London",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/The_Mystical_Nativity"
+              },
+              {
+                  "Name": "The Garden of Earthly Delights",
+                  "id": 82,
+                  "Author": "Hieronymus Bosch",
+                  "Date": "1500-1505",
+                  "Description": "A triptych painting depicting a surreal landscape.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/1100px-The_Garden_of_earthly_delights.jpg",
+                  "Museum": "Prado Museum, Madrid",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights"
+              },
+              {
+                  "Name": "The Judgment of Paris",
+                  "id": 83,
+                  "Author": "Unknown",
+                  "Date": "c. 1500",
+                  "Description": "A painting depicting the mythological judgment of Paris.",
+                  "Image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/the-judgment-of-paris-anonymous-rejected-attribution-antonio-da-vendri-attributed-to-paolo-morando-cavazzola-rej.jpg",
+                  "Museum": "Prado Museum, Madrid",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://www.rijksmuseum.nl/en/collection/SK-A-1296"
+              },
+              {
+                  "Name": "David",
+                  "id": 84,
+                  "Author": "Michelangelo",
+                  "Date": "1501-1504",
+                  "Description": "A marble statue of the biblical hero David.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg/800px-%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+                  "Museum": "Galleria dell'Accademia, Florence",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/David_(Michelangelo)"
+              },
+              {
+                  "Name": "Mona Lisa",
+                  "id": 85,
+                  "Author": "Leonardo da Vinci",
+                  "Date": "1503-1506",
+                  "Description": "A portrait of a woman with a mysterious smile.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg/490px-Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg",
+                  "Museum": "Louvre Museum, Paris",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://es.wikipedia.org/wiki/La_Gioconda"
+              },
+              {
+                  "Name": "Self-portrait",
+                  "id": 86,
+                  "Author": "Raphael",
+                  "Date": "1504-1506",
+                  "Description": "A self-portrait by the Italian painter Raphael.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/400px-Raffaello_Sanzio.jpg",
+                  "Museum": "Uffizi Gallery, Florence",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Self-portrait_%28Raphael%29"
+              },
+              {
+                  "Name": "The Judgment of Paris, Coin Engraving",
+                  "id": 87,
+                  "Author": "Giovanni Paolo Fonduli",
+                  "Date": "1505",
+                  "Description": "An engraving on a coin depicting the judgment of Paris.",
+                  "Image": "https://images.metmuseum.org/CRDImages/dp/original/DP-18212-001.jpg",
+                  "Museum": "Ashmolean Museum, Oxford",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://www.metmuseum.org/art/collection/search/337058"
+              },
+              {
+                  "Name": "Lady with a Unicorn",
+                  "id": 88,
+                  "Author": "Raphael",
+                  "Date": "c. 1505",
+                  "Description": "A portrait of a young woman with a unicorn.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Raffael_046FXD.jpg/920px-Raffael_046FXD.jpg",
+                  "Museum": "Borghese Gallery, Rome",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Young_Woman_with_Unicorn"
+              },
+              {
+                  "Name": "Portrait of Maddalena Doni",
+                  "id": 89,
+                  "Author": "Raphael",
+                  "Date": "c. 1506",
+                  "Description": "A portrait of Maddalena Doni.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ritratto_di_maddalena_strozzi.jpg/540px-Ritratto_di_maddalena_strozzi.jpg",
+                  "Museum": "Pitti Palace, Florence",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Portrait_of_Maddalena_Doni"
+              },
+              {
+                  "Name": "Portrait of a Lady (La Muta)",
+                  "id": 90,
+                  "Author": "Raphael",
+                  "Date": "1507-1508",
+                  "Description": "A portrait of a lady known as La Muta.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Raffael_043.jpg/540px-Raffael_043.jpg",
+                  "Museum": "Ducal Palace of Urbino, Italy",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Portrait_of_a_Young_Woman_(La_Muta)"
+              },
+              {
+                  "Name": "Ceiling of the Sistine Chapel",
+                  "id": 92,
+                  "Author": "Michelangelo",
+                  "Date": "1508-1512",
+                  "Description": "The ceiling of the Sistine Chapel, painted by Michelangelo.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sistine_Chapel_ceiling_02_%28brightened%29.jpg/793px-Sistine_Chapel_ceiling_02_%28brightened%29.jpg",
+                  "Museum": "Sistine Chapel, Vatican City",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling"
+              },
+              {
+                  "Name": "Head of Saint Anne",
+                  "id": 93,
+                  "Author": "Leonardo da Vinci",
+                  "Date": "c. 1508",
+                  "Description": "A drawing of Saint Anne's head.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Leonardo_da_Vinci_-_RCIN_912533%2C_The_head_of_St_Anne_c.1510-15.jpg/540px-Leonardo_da_Vinci_-_RCIN_912533%2C_The_head_of_St_Anne_c.1510-15.jpg",
+                  "Museum": "Royal Library, Windsor Castle",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Study_for_the_Head_of_Saint_Anne"
+              },
+              {
+                  "Name": "Madonna Tempi",
+                  "id": 94,
+                  "Author": "Raphael",
+                  "Date": "1508",
+                  "Description": "A painting of the Madonna with the Child.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tempi_Madonna_by_Raffaello_Sanzio_-_Alte_Pinakothek_-_Munich_-_Germany_2017.jpg/540px-Tempi_Madonna_by_Raffaello_Sanzio_-_Alte_Pinakothek_-_Munich_-_Germany_2017.jpg",
+                  "Museum": "Alte Pinakothek, Munich",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Tempi_Madonna"
+              },
+              {
+                  "Name": "The Creation of Adam",
+                  "id": 95,
+                  "Author": "Michelangelo",
+                  "Date": "c. 1511",
+                  "Description": "A fresco depicting God giving life to Adam.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/1280px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg",
+                  "Museum": "Sistine Chapel, Vatican City",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/The_Creation_of_Adam"
+              },
+              {
+                  "Name": "The School of Athens",
+                  "id": 96,
+                  "Author": "Raphael",
+                  "Date": "1509-1511",
+                  "Description": "A fresco depicting various classical philosophers.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1280px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+                  "Museum": "Apostolic Palace, Vatican City",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/The_School_of_Athens"
+              },
+              {
+                  "Name": "Diary of Leonardo da Vinci: Educational Resource for Surgeons. Sketch of the Human Brain and Skull",
+                  "id": 97,
+                  "Author": "Leonardo da Vinci",
+                  "Date": "c. 1508",
+                  "Description": "An anatomical sketch of the human brain and skull.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Leonardo_Da_Vinci%27s_Brain_Physiology.jpg/838px-Leonardo_Da_Vinci%27s_Brain_Physiology.jpg",
+                  "Museum": "",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.m.wikipedia.org/wiki/File:Leonardo_Da_Vinci%27s_Brain_Physiology.jpg"
+              },
+              {
+                  "Name": "Libyan Sibyl",
+                  "id": 103,
+                  "Author": "Michelangelo",
+                  "Date": "c. 1511",
+                  "Description": "A fresco depicting the Libyan Sibyl.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sibila_L%C3%ADbica.jpg/440px-Sibila_L%C3%ADbica.jpg",
+                  "Museum": "Prado Museum, Madrid",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Libyan_Sibyl"
+              },
+              {
+                  "Name": "Portrait of Leonardo da Vinci",
+                  "id": 105,
+                  "Author": "Attributed to Francesco Melzi",
+                  "Date": "1515-1517",
+                  "Description": "A portrait of Leonardo da Vinci.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Leonardo_da_Vinci_LUCAN_Hohenstatt_1_portrait.jpg",
+                  "Museum": "Royal Library, Windsor Castle",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Lucan_portrait_of_Leonardo_da_Vinci"
+              },
+              {
+                  "Name": "Sistine Madonna",
+                  "id": 106,
+                  "Author": "Raphael",
+                  "Date": "1513-1514",
+                  "Description": "A painting depicting the Madonna holding the Christ child.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RAFAEL_-_Madonna_Sixtina_%28Gem%C3%A4ldegalerie_Alter_Meister%2C_Dresden%2C_1513-14._%C3%93leo_sobre_lienzo%2C_265_x_196_cm%29.jpg/540px-RAFAEL_-_Madonna_Sixtina_%28Gem%C3%A4ldegalerie_Alter_Meister%2C_Dresden%2C_1513-14._%C3%93leo_sobre_lienzo%2C_265_x_196_cm%29.jpg",
+                  "Museum": "Gemäldegalerie Alte Meister, Dresden",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Sistine_Madonna"
+              },
+              {
+                  "Name": "The Charge to Peter",
+                  "id": 107,
+                  "Author": "Raphael",
+                  "Date": "1515",
+                  "Description": "A painting depicting Jesus giving the keys to Peter.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/6/69/V%26A_-_Raphael%2C_Christ%27s_Charge_to_Peter_%281515%29.jpg",
+                  "Museum": "Victoria and Albert Museum, London",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://www.vam.ac.uk/articles/the-raphael-cartoons-christs-charge-to-peter#slideshow=84363765&slide=0"
+              },
+              {
+                  "Name": "Christ Falling on the Way to Calvary",
+                  "id": 109,
+                  "Author": "Raphael",
+                  "Date": "1517",
+                  "Description": "A painting depicting Christ falling on the way to Calvary.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Christ_Falling_on_the_Way_to_Calvary_-_Raphael.jpg/864px-Christ_Falling_on_the_Way_to_Calvary_-_Raphael.jpg",
+                  "Museum": "Prado Museum, Madrid",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://en.wikipedia.org/wiki/Christ_Falling_on_the_Way_to_Calvary"
+              },
+              {
+                  "Name": "The Judgment of Paris",
+                  "id": 110,
+                  "Author": "Niklaus Manuel",
+                  "Date": "1517-1518",
+                  "Description": "A painting depicting the mythological judgment of Paris.",
+                  "Image": "https://mdl.artvee.com/sftb/401922mt.jpg",
+                  "Museum": "Kunstmuseum Basel, Switzerland",
+                  "Era": "Long Neoclassicism",
+                  "Period": "Renaissance",
+                  "Link": "https://www.wga.hu/html_m/m/manuel/j_paris.html"
+              }
+          ]
+          
+
+          ]
         },
         "Baroque": {
           "Period": "Baroque",
