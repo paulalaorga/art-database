@@ -1054,7 +1054,7 @@
                   "Author": "Giovanni Paolo Fonduli",
                   "Date": "1505",
                   "Description": "An engraving on a coin depicting the judgment of Paris.",
-                  "Image": "https://images.metmuseum.org/CRDImages/dp/original/DP-18212-001.jpg",
+                  "Image": "ALERT",
                   "Museum": "Ashmolean Museum, Oxford",
                   "Era": "Long Neoclassicism",
                   "Period": "Renaissance",
@@ -1240,6 +1240,7 @@
                   "Period": "Renaissance",
                   "Link": "https://www.wga.hu/html_m/m/manuel/j_paris.html"
               }
+              {ALERT FALTAN MÁS}
           ]
         },
         "Baroque": {
