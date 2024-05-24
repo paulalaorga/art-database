@@ -435,6 +435,7 @@
           "Era": "Medieval Era",
           "Period": "Early Medieval",
           "Years": "500 - 1000 AD",
+          "Picture": "https://d7hftxdivxxvm.cloudfront.net/?height=618&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FIk1eiNqTr86HRGRCg2ym2g%2Flarger.jpg&width=445",
           "Works": [
             {
               "Name": "Sarcophagus of the Passion of Christ",
@@ -499,8 +500,11 @@
           ]
         },
         "Romanesque": {
+          "id": "Romanesque",
+          "Era": "Medieval Era",
           "Period": "Romanesque",
           "Years": "1000 - 1150 AD",
+          "Picture": "https://cdn.kastatic.org/ka-content-images/f473ba3252151a882d2720b8bcaa2eb07f6ccfc2.jpg",
           "Works": [
             {
               "Name": "Church of San Martín",
@@ -565,8 +569,11 @@
           ]
         },
         "Gothic": {
+          "id": "Gothic",
+          "Era": "Medieval Era",
           "Period": "Gothic",
           "Years": "1150 - 1500 AD",
+          "Picture": "https://i0.wp.com/www.re-thinkingthefuture.com/wp-content/uploads/2022/01/A6058-Art-Movement-Gothic-Art-770x515.jpg",
           "Works": [
             {
               "Name": "Cathedral of Santa María de León",
@@ -779,8 +786,11 @@
       },
       "Periods": {
         "Renaissance": {
+          "id": "Renaissance",
+          "Era": "LongNeoclassicism",
           "Period": "Renaissance",
           "Years": "1400 - 1600",
+          "Picture": "https://www.thoughtco.com/thmb/CWbNhXAvv6eqiWqQVWhWlAlm74A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-god-and-adam-s-hands-157844809-58ab54a23df78c345b08689c-5c531771c9e77c00014b025e.jpg",
           "Works": [
               {
                   "Name": "Ten Books on Architecture",
@@ -1265,13 +1275,19 @@
           ]
         },
         "Baroque": {
+          "id": "Baroque",
+          "Era": "LongNeoclassicism",
           "Period": "Baroque",
           "Years": "1600 - 1750",
+          "Picture": "https://www.oldholland.com/wp-content/uploads/2023/02/Judith-Beheading-Holofernes-by-Carravagio.jpg",
           "Works": []
         },
         "Neoclassicism": {
+          "id": "Neoclassicism",
+          "Era": "LongNeoclassicism",
           "Period": "Neoclassicism",
           "Years": "1750 - 1900",
+          "Picture": "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/image_98002878-f394-4e73-95b3-33875ae26a30_1024x1024.png?v=1652805675",
           "Works": []
         }
       }
@@ -1288,9 +1304,30 @@
         "4": "./images/romanticism-image.png"
       },
       "Periods": {
-        "Romanticism": {},
-        "Realism": {},
-        "Impressionism": {}
+        "Romanticism": {
+          "id": "Romanticism",
+          "Era": "XIX Century",
+          "Period": "Romanticism",
+          "Years": "1800 - 1850",
+          "Picture": "https://assets.website-files.com/5d8de3f4884b1c73a4acfb22/5d9aed668997ee24ebbf516c_aP-WQsh26lYTb3VGLim94g_Wanderer%2Bthumb%2B800.jpg",
+          "Works": []
+        },
+        "Realism": {
+          "id": "Realism",
+          "Era": "XIX Century",
+          "Period": "Realism",
+          "Years": "1840 - 1880",
+          "Picture": "https://sparksgallery.com/wp-content/uploads/2023/06/Realism-art-Jean-Francois-Millet-The-Gleaners-1857.jpg",
+          "Works": []
+        },
+        "Impressionism": {
+          "id": "Impressionism",
+          "Era": "XIX Century",
+          "Period": "Impressionism",
+          "Years": "1860 - 1900",
+          "Picture": "https://cdn.britannica.com/34/3734-004-D66E6719/canvas-oil-Le-Moulin-de-la-Galette-1876.jpg?s=1500x700&q=85",
+          "Works": []
+        }
       }
     },
     "20thCentury": {
@@ -1305,8 +1342,16 @@
         "4": "./images/modernism-image.png"
       },
       "Periods": {
-        "ModernArt": {},
-        "PostmodernArt": {}
+        "ModernArt": {
+          "Period": "Modern Art",
+          "Years": "1900 - 1960",
+          "Works": []
+        },
+        "PostmodernArt": {
+          "Period": "Postmodern Art",
+          "Years": "1960 - 2000",
+          "Works": []
+        }
       }
     },
 
@@ -1322,7 +1367,11 @@
         "4": "./images/contemporary-image.png"
       },
       "Periods": {
-        "ContemporaryArt": {}
+        "ContemporaryArt": {
+          "Period": "Contemporary Art",
+          "Years": "2000 - Present",
+          "Works": []
+        }
       }
     }
   }
