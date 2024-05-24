@@ -4,29 +4,16 @@
       "Era": "Classicism",
       "Years": "500 - 323 BC",
       "Picture": "https://i.pinimg.com/736x/31/c0/11/31c011994cd0f5c7711f9323c2ac4952.jpg",
-      "Highlights": [
+      "Highlights": 
         {
-          "id":1,
-          "content":"History, mythology, literature and phylosophy are interconected"
+        "1":"History, mythology, literature and phylosophy are interconected",
+        
+        "2":"The Original Works are Surviving Artifacts",
+       
+        "3":"It starts at the flourishing of Greek civilization and ends with the decline of the Roman Empire CentCenturies V b.c. to IV c.e",
+       
+        "4":"./images/classical-image.png"
         },
-        {
-          "id":2,
-          "content":"The Original Works are Surviving Artifacts"
-        },
-        {
-          "id":3,
-          "content":"It starts at the flourishing of Greek civilization and ends with the decline of the Roman Empire Centuries V b.c. to IV c.e"
-        },
-        {
-          "id":3,
-          "content":"It starts at the flourishing of Greek civilization and ends with the decline of the Roman Empire Centuries V b.c. to IV c.e"
-        },
-        {
-          "id":4,
-          "content":"./images/classical-image.png"
-        }
-
-      ],
       "Periods": {
         "AncientGreece": {
           "id": "AncientGreece",
