@@ -12,7 +12,8 @@
        
         "3":"It starts at the flourishing of Greek civilization and ends with the decline of the Roman Empire CentCenturies V b.c. to IV c.e",
        
-        "4":"./images/classical-image.png"
+        "4":"https://art-database.onrender.com/images/classical-image.png"
+        
         },
       "Periods": {
         "AncientGreece": {
@@ -427,7 +428,7 @@
         "1": "Rise of religious art focusing on the spiritual narrative, prominently featuring Biblical themes and figures.",
         "2": "Emergence of Gothic architecture, characterized by pointed arches, ribbed vaults, and flying buttresses, enhancing the verticality and light of cathedrals.",
         "3": "Expansion of illuminated manuscripts, which were richly decorated texts, crucial for the spread of knowledge and religious devotion.",
-        "4": "./images/medieval-image.png"
+        "4": "https://art-database.onrender.com/images/medieval-image.png"
       },
       "Periods": {
         "EarlyMedieval": {
@@ -782,7 +783,7 @@
         "1": "Revival of classical ideals and aesthetics, influenced by the rediscovery of ancient art and architecture during the 18th century.",
         "2": "Focus on symmetry, proportion, and the use of classical motifs, which were seen as a return to the 'true style' of art.",
         "3": "Influence of the Enlightenment, emphasizing reason and science, which directly influenced artistic expressions and themes.",
-        "4": "./images/neoclassicism-image.png"
+        "4": "https://art-database.onrender.com/images/neoclassicism-image.png"
       },
       "Periods": {
         "Renaissance": {
@@ -1301,7 +1302,7 @@
         "1": "Romanticism emerged as a reaction against the Industrial Revolution and Neoclassicism, emphasizing emotion, individualism, and nature.",
         "2": "Realism focused on accurate depictions of everyday life, a contrast to the idealized images of Romanticism.",
         "3": "Impressionism broke away from traditional methods, focusing on the effects of light and movement using vibrant colors and visible brushstrokes.",
-        "4": "./images/romanticism-image.png"
+        "4": "https://art-database.onrender.com/images/romanticism-image.png"
       },
       "Periods": {
         "Romanticism": {
@@ -1339,10 +1340,12 @@
         "1": "Modernism dominated early 20th century, pushing for new forms of expression and breaking away from classical and traditional structures.",
         "2": "Postmodernism emerged, characterized by its eclectic approach and challenging of modernist principles, incorporating pastiche and irony.",
         "3": "Development of digital art and technology's integration into artistic practices, fundamentally transforming how art is created and experienced.",
-        "4": "./images/modernism-image.png"
+        "4": "https://art-database.onrender.com/images/modernism-image.png"
       },
       "Periods": {
         "ModernArt": {
+          "id": "ModernArt",
+          "Era": "XX Century",
           "Period": "Modern Art",
           "Years": "1900 - 1960",
           "Works": []
@@ -1364,7 +1367,7 @@
         "1": "Art becomes a global dialogue, incorporating diverse cultural influences and exploring global issues such as migration, globalization, and climate change.",
         "2": "Rise of digital and multimedia art forms, which utilize new media technologies to create interactive, dynamic, and immersive experiences.",
         "3": "Social media transforms how art is consumed and shared, democratizing access to art and enabling artists to reach a global audience directly.",
-        "4": "./images/contemporary-image.png"
+        "4": "https://art-database.onrender.com/images/contemporary-image.png"
       },
       "Periods": {
         "ContemporaryArt": {
