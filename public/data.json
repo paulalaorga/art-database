@@ -22,16 +22,13 @@
           "Years": "500 - 323 BC",
           "Picture": "https://i.pinimg.com/originals/ee/23/2c/ee232cb550d872a082895d73572f475c.gif",
           "Highlights": 
-        {
-        "1":"History, mythology, literature and phylosophy are interconected",
-        
-        "2":"The Original Works are Surviving Artifacts",
-       
-        "3":"It starts at the flourishing of Greek civilization and ends with the decline of the Roman Empire CentCenturies V b.c. to IV c.e",
-       
-        "4":"https://art-database.onrender.com/images/classical-image.png"
-        
+          {
+            "1": "Greek art embodies the ideals of beauty, harmony, and balance.",
+            "2": "Sculptures and pottery reveal the stories of gods and heroes.",
+            "3": "The period spans from the rise of city-states to the Roman conquest.",
+            "4": "https://cdn-icons-png.flaticon.com/256/587/587596.png"
         },
+        
           "Works": [
             {
               "Name": "The Charioteer of Delphi",
@@ -216,6 +213,13 @@
           "Period": "Ancient Rome",
           "Years": "500 - 323 BC",
           "Picture": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjY3LTEyNi12XzEtbDEzZDNoY3MuanBn.jpg",
+          "Highlights": 
+          {
+            "1": "Roman art reflects power, grandeur, and public life.",
+            "2": "Architecture and mosaics showcase engineering and cultural achievements.",
+            "3": "The period extends from the founding of Rome to the fall of the Western Empire.",
+            "4": "https://cdn-icons-png.flaticon.com/512/4054/4054564.png"
+        },
           "Works": [
             {
               "Name": "Young Hercules",
@@ -448,6 +452,12 @@
           "Period": "Early Medieval",
           "Years": "500 - 1000 AD",
           "Picture": "https://d7hftxdivxxvm.cloudfront.net/?height=618&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FIk1eiNqTr86HRGRCg2ym2g%2Flarger.jpg&width=445",
+          "Highlights": {
+            "1": "Early medieval art emphasizes spirituality and the divine.",
+            "2": "Illuminated manuscripts and metalwork depict religious themes.",
+            "3": "The period spans from the fall of the Roman Empire to the rise of Gothic architecture.",
+            "4": "https://www.clipartmax.com/png/middle/212-2127823_headwear-medieval-knight-helmet-drawing.png"
+        },        
           "Works": [
             {
               "Name": "Sarcophagus of the Passion of Christ",
@@ -517,6 +527,12 @@
           "Period": "Romanesque",
           "Years": "1000 - 1150 AD",
           "Picture": "https://cdn.kastatic.org/ka-content-images/f473ba3252151a882d2720b8bcaa2eb07f6ccfc2.jpg",
+          "Highlights":{
+              "1": "Romanesque art emphasizes spirituality and religious community.",
+              "2": "Churches and sculptures showcase a fusion of classical forms and new styles.",
+              "3": "The period spans from the 11th to the 12th century, marked by robust architecture.",
+              "4": "https://png.pngtree.com/png-vector/20240129/ourmid/pngtree-church-medieval-window-old-gothic-style-architecture-element-outline-illustration-png-image_11514324.png"
+          },
           "Works": [
             {
               "Name": "Church of San Martín",
@@ -586,6 +602,12 @@
           "Period": "Gothic",
           "Years": "1150 - 1500 AD",
           "Picture": "https://i0.wp.com/www.re-thinkingthefuture.com/wp-content/uploads/2022/01/A6058-Art-Movement-Gothic-Art-770x515.jpg",
+          "Highlights":{
+              "1": "Gothic art focuses on light, height, and intricate detail.",
+              "2": "Cathedrals and stained glass express divine stories and spiritual transcendence.",
+              "3": "The period spans from the 12th to the 16th century, characterized by soaring architecture.",
+              "4": "https://cdn1.iconfinder.com/data/icons/solidix-landmarks/128/landmark_travel_tourism_building-10-512.png"
+          },
           "Works": [
             {
               "Name": "Cathedral of Santa María de León",
