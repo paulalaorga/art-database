@@ -825,6 +825,12 @@
           "Period": "Renaissance",
           "Years": "1400 - 1600",
           "Picture": "https://www.thoughtco.com/thmb/CWbNhXAvv6eqiWqQVWhWlAlm74A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-god-and-adam-s-hands-157844809-58ab54a23df78c345b08689c-5c531771c9e77c00014b025e.jpg",
+          "Highlights": {
+        "1": "The Renaissance marked a revival of classical learning and values, emphasizing humanism and the study of the humanities.",
+        "2": "Artists focused on naturalism, perspective, and anatomy, leading to groundbreaking works in painting and sculpture.",
+        "3": "This period celebrated individual achievement and the beauty of the human form, influencing art, science, and philosophy.",
+        "4": "https://st2.depositphotos.com/46899600/45040/i/450/depositphotos_450405676-stock-illustration-simple-line-illustration-mona-lisa.jpg"
+    },
           "Works": [
               {
                   "Name": "Ten Books on Architecture",
@@ -1314,15 +1320,77 @@
           "Period": "Baroque",
           "Years": "1600 - 1750",
           "Picture": "https://www.oldholland.com/wp-content/uploads/2023/02/Judith-Beheading-Holofernes-by-Carravagio.jpg",
-          "Works": []
+          "Highlights": {
+        "1": "Baroque art emerged in the late 16th century, characterized by dramatic expression, movement, and grandeur.",
+        "2": "Artists employed bold colors, contrast, and elaborate details to evoke emotion and create a sense of awe.",
+        "3": "This period emphasized theatricality and dynamism, often reflecting the power of the church and the state.",
+        "4": "https://e7.pngegg.com/pngimages/266/602/png-clipart-ornament-baroque-scroll-acanthus-baroque-monochrome-fictional-character-thumbnail.png"
+    },
+    "Works": [
+      {
+          "Name": "The Night Watch",
+          "id": 1,
+          "Author": "Rembrandt van Rijn",
+          "Date": "1642",
+          "Description": "A masterpiece of Baroque painting, known for its dramatic use of light and shadow.",
+          "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Night_Watch.jpg/1920px-The_Night_Watch.jpg",
+          "Museum": "Rijksmuseum, Amsterdam",
+          "Era": "Long Baroque",
+          "Period": "Baroque",
+          "Link": "https://www.rijksmuseum.nl/en/collection/SK-C-5"
+      },
+      {
+          "Name": "The Ecstasy of Saint Teresa",
+          "id": 2,
+          "Author": "Gian Lorenzo Bernini",
+          "Date": "1647-1652",
+          "Description": "A sculptural masterpiece that captures the mystical experience of Saint Teresa.",
+          "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bernini%2C_Ecstasy_of_Saint_Teresa.jpg/1280px-Bernini%2C_Ecstasy_of_Saint_Teresa.jpg",
+          "Museum": "Santa Maria della Vittoria, Rome",
+          "Era": "Long Baroque",
+          "Period": "Baroque",
+          "Link": "https://www.theartstory.org/artist/bernini-gian-lorenzo/artworks/"
+      }
+  ]
         },
         "Neoclassicism": {
           "id": "Neoclassicism",
           "Era": "LongNeoclassicism",
           "Period": "Neoclassicism",
           "Years": "1750 - 1900",
+          "Highlights": {
+        "1": "Neoclassicism emerged in the mid-18th century as a reaction against the excesses of Baroque and Rococo styles.",
+        "2": "Artists drew inspiration from classical antiquity, emphasizing simplicity, symmetry, and moral themes.",
+        "3": "This movement celebrated reason, order, and discipline, often portraying historical and mythological subjects.",
+        "4": "https://ih1.redbubble.net/image.1875221717.0404/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+    },
           "Picture": "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/image_98002878-f394-4e73-95b3-33875ae26a30_1024x1024.png?v=1652805675",
-          "Works": []
+          "Works": [
+            {
+                "Name": "Oath of the Horatii",
+                "id": 1,
+                "Author": "Jacques-Louis David",
+                "Date": "1784",
+                "Description": "A pivotal work of Neoclassicism depicting the Horatii brothers swearing an oath to defend Rome.",
+                "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Jacques-Louis_David_-_Oath_of_the_Horatii_-_Google_Art_Project.jpg/1920px-Jacques-Louis_David_-_Oath_of_the_Horatii_-_Google_Art_Project.jpg",
+                "Museum": "Musée du Louvre, Paris",
+                "Era": "Long Neoclassicism",
+                "Period": "Neoclassicism",
+                "Link": "https://www.louvre.fr/en/explore/the-palace/oath-of-the-horatii"
+            },
+            {
+                "Name": "The Death of Sardanapalus",
+                "id": 2,
+                "Author": "Eugène Delacroix",
+                "Date": "1827",
+                "Description": "A dramatic representation of the Assyrian king Sardanapalus, emphasizing emotion and chaos.",
+                "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Eug%C3%A8ne_Delacroix_-_The_Death_of_Sardanapalus.jpg/1280px-Eug%C3%A8ne_Delacroix_-_The_Death_of_Sardanapalus.jpg",
+                "Museum": "Musée du Louvre, Paris",
+                "Era": "Long Neoclassicism",
+                "Period": "Neoclassicism",
+                "Link": "https://www.louvre.fr/en/explore/the-palace/the-death-of-sardanapalus"
+            }
+        ]
         }
       }
     },
@@ -1344,7 +1412,38 @@
           "Period": "Romanticism",
           "Years": "1800 - 1850",
           "Picture": "https://assets.website-files.com/5d8de3f4884b1c73a4acfb22/5d9aed668997ee24ebbf516c_aP-WQsh26lYTb3VGLim94g_Wanderer%2Bthumb%2B800.jpg",
-          "Works": []
+            "Highlights": {
+                "1": "Romanticism celebrated emotion, imagination, and the sublime in nature, reacting against Enlightenment rationalism.",
+                "2": "Artists sought to express the beauty of the natural world and human experiences, often using dramatic and vivid imagery.",
+                "3": "This movement emphasized the individual and the unique, highlighting personal feelings and subjective perspectives.",
+                "4": "https://i.pinimg.com/originals/84/79/c5/8479c53055d9aee5dba27c828895e4fc.png"
+            },
+          "Works": [
+                    {
+                        "Name": "The Third of May 1808",
+                        "id": 1,
+                        "Author": "Francisco Goya",
+                        "Date": "1814",
+                        "Description": "A powerful anti-war painting depicting the execution of Spanish rebels by French soldiers.",
+                        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Francisco_Goya_-_El_tres_de_mayo_de_1808.jpg/1280px-Francisco_Goya_-_El_tres_de_mayo_de_1808.jpg",
+                        "Museum": "Museo del Prado, Madrid",
+                        "Era": "XIX Century",
+                        "Period": "Romanticism",
+                        "Link": "https://www.museodelprado.es/en/the-collection/art-work/the-third-of-may-1808/360f86e2-67b1-4905-b26c-d4e4c4ccbc06"
+                    },
+                    {
+                        "Name": "Wanderer above the Sea of Fog",
+                        "id": 2,
+                        "Author": "Caspar David Friedrich",
+                        "Date": "1818",
+                        "Description": "A quintessential Romantic painting symbolizing the sublime and individual exploration.",
+                        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/1280px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+                        "Museum": "Hamburger Kunsthalle, Hamburg",
+                        "Era": "XIX Century",
+                        "Period": "Romanticism",
+                        "Link": "https://www.hamburger-kunsthalle.de/en/collection/collection-archive/overview/wanderer-above-the-sea-of-fog"
+                    }
+                ]
         },
         "Realism": {
           "id": "Realism",
@@ -1352,7 +1451,38 @@
           "Period": "Realism",
           "Years": "1840 - 1880",
           "Picture": "https://sparksgallery.com/wp-content/uploads/2023/06/Realism-art-Jean-Francois-Millet-The-Gleaners-1857.jpg",
-          "Works": []
+          "Highlights": {
+                "1": "Realism emerged as a response to Romanticism, emphasizing the depiction of everyday life and ordinary people.",
+                "2": "Artists aimed to represent subjects without idealization, portraying the harsh realities of life and social issues.",
+                "3": "The movement sought to document the world as it is, often focusing on working-class experiences and regional settings.",
+                "4": "https://media.istockphoto.com/id/92337292/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88.jpg?s=612x612&w=0&k=20&c=fQ1mVLypzSDGFMc29rTm5BqeEABbjCNP018xWoJhE1w="
+            },
+            "Works": [
+              {
+                  "Name": "The Gleaners",
+                  "id": 1,
+                  "Author": "Jean-François Millet",
+                  "Date": "1857",
+                  "Description": "A landmark painting depicting peasant women gleaning in the fields.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_Gleaners_by_Jean-Fran%C3%A7ois_Millet.jpg/1280px-The_Gleaners_by_Jean-Fran%C3%A7ois_Millet.jpg",
+                  "Museum": "Musée d'Orsay, Paris",
+                  "Era": "XIX Century",
+                  "Period": "Realism",
+                  "Link": "https://www.musee-orsay.fr/en/collections/works-in-the-collection/#!/artwork/the-gleaners-1323"
+              },
+              {
+                  "Name": "The Stone Breakers",
+                  "id": 2,
+                  "Author": "Gustave Courbet",
+                  "Date": "1849",
+                  "Description": "A groundbreaking work representing two laborers breaking stones on a road.",
+                  "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gustave_Courbet_-_The_Stone_Breakers.jpg/1280px-Gustave_Courbet_-_The_Stone_Breakers.jpg",
+                  "Museum": "Musée d'Orsay, Paris",
+                  "Era": "XIX Century",
+                  "Period": "Realism",
+                  "Link": "https://www.musee-orsay.fr/en/collections/works-in-the-collection/#!/artwork/the-stone-breakers-1348"
+              }
+          ]
         },
         "Impressionism": {
           "id": "Impressionism",
@@ -1360,7 +1490,38 @@
           "Period": "Impressionism",
           "Years": "1860 - 1900",
           "Picture": "https://cdn.britannica.com/34/3734-004-D66E6719/canvas-oil-Le-Moulin-de-la-Galette-1876.jpg?s=1500x700&q=85",
-          "Works": []
+          "Highlights": {
+                "1": "Impressionism emerged in the late 19th century, prioritizing the perception of light and color over detailed realism.",
+                "2": "Artists used loose brushwork and vibrant palettes to capture fleeting moments and the effects of natural light.",
+                "3": "This movement challenged traditional artistic techniques, encouraging spontaneity and personal expression in painting.",
+                "4": "https://i.pinimg.com/564x/48/14/cd/4814cd5b378121ece0fd86c70263f1ab.jpg"
+            },
+          "Works": [
+                    {
+                        "Name": "Impression, Sunrise",
+                        "id": 1,
+                        "Author": "Claude Monet",
+                        "Date": "1872",
+                        "Description": "The painting that gave Impressionism its name, capturing the harbor of Le Havre at sunrise.",
+                        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Claude_Monet%2C_Impression%2C_Soleil_Levant%2C_1872.jpg/1280px-Claude_Monet%2C_Impression%2C_Soleil_Levant%2C_1872.jpg",
+                        "Museum": "Musée Marmottan Monet, Paris",
+                        "Era": "XIX Century",
+                        "Period": "Impressionism",
+                        "Link": "https://www.marmottan.fr/en/monet/monet-2/"
+                    },
+                    {
+                        "Name": "Luncheon of the Boating Party",
+                        "id": 2,
+                        "Author": "Pierre-Auguste Renoir",
+                        "Date": "1880-1881",
+                        "Description": "A vibrant scene capturing friends enjoying a sunny afternoon on the Seine.",
+                        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Luncheon_of_the_Boating_Party.jpg/1280px-Luncheon_of_the_Boating_Party.jpg",
+                        "Museum": "The Phillips Collection, Washington, D.C.",
+                        "Era": "XIX Century",
+                        "Period": "Impressionism",
+                        "Link": "https://www.phillipscollection.org/collection/luncheon-of-the-boating-party"
+                    }
+                ]
         }
       }
     },
@@ -1381,12 +1542,68 @@
           "Era": "XX Century",
           "Period": "Modern Art",
           "Years": "1900 - 1960",
-          "Works": []
+          "Highlights": {
+                "1": "Modern Art emerged in the late 19th and early 20th centuries, breaking away from traditional styles and conventions.",
+                "2": "Artists explored abstraction, experimentation, and new techniques, reflecting the rapid changes of modern society.",
+                "3": "This movement emphasized individual vision and creativity, challenging viewers' perceptions of art and reality.",
+                "4": "https://static.thenounproject.com/png/875730-200.png"
+            },
+          "Works": [
+                    {
+                        "Name": "The Persistence of Memory",
+                        "id": 1,
+                        "Author": "Salvador Dalí",
+                        "Date": "1931",
+                        "Description": "A surreal landscape featuring melting clocks, exploring the concept of time.",
+                        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/The_Persistence_of_Memory.jpg/1280px-The_Persistence_of_Memory.jpg",
+                        "Museum": "Museum of Modern Art, New York",
+                        "Era": "XX Century",
+                        "Period": "Modern Art",
+                        "Link": "https://www.moma.org/collection/works/79018"
+                    },
+                    {
+                        "Name": "Composition VIII",
+                        "id": 2,
+                        "Author": "Wassily Kandinsky",
+                        "Date": "1923",
+                        "Description": "An abstract composition reflecting Kandinsky's theories on color and form.",
+                        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kandinsky_Composition_VIII.jpg/1280px-Kandinsky_Composition_VIII.jpg",
+                        "Museum": "Guggenheim Museum, New York",
+                        "Era": "XX Century",
+                        "Period": "Modern Art",
+                        "Link": "https://www.guggenheim.org/artwork/1963"
+                    }
+                ]
         },
         "PostmodernArt": {
           "Period": "Postmodern Art",
           "Years": "1960 - 2000",
-          "Works": []
+          "Works": [
+                    {
+                        "Name": "Campbell's Soup Cans",
+                        "id": 1,
+                        "Author": "Andy Warhol",
+                        "Date": "1962",
+                        "Description": "A series of paintings that challenge traditional notions of art and consumer culture.",
+                        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Andy_Warhol_Campbell's_Soup_Cans.jpg/1280px-Andy_Warhol_Campbell's_Soup_Cans.jpg",
+                        "Museum": "Museum of Modern Art, New York",
+                        "Era": "XX Century",
+                        "Period": "Postmodern Art",
+                        "Link": "https://www.moma.org/collection/works/80479"
+                    },
+                    {
+                        "Name": "The Physical Impossibility of Death in the Mind of Someone Living",
+                        "id": 2,
+                        "Author": "Damien Hirst",
+                        "Date": "1991",
+                        "Description": "A conceptual artwork featuring a shark preserved in formaldehyde, exploring themes of life and death.",
+                        "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Hirst_shark.jpg/1280px-Hirst_shark.jpg",
+                        "Museum": "Saatchi Gallery, London",
+                        "Era": "XX Century",
+                        "Period": "Postmodern Art",
+                        "Link": "https://www.saatchigallery.com/art/physical_impossibility_of_death_in_the_mind_of_someone_living/artist/1525"
+                    }
+                ]
         }
       }
     },
@@ -1406,7 +1623,32 @@
         "ContemporaryArt": {
           "Period": "Contemporary Art",
           "Years": "2000 - Present",
-          "Works": []
+          "Works": [
+                    {
+                        "Name": "The Infinity Room",
+                        "id": 1,
+                        "Author": "Yayoi Kusama",
+                        "Date": "2013",
+                        "Description": "An immersive installation that creates the illusion of endless space using mirrors and lights.",
+                        "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Yayoi_Kusama%2C_2016_-_Infinity_Room.jpg/1280px-Yayoi_Kusama%2C_2016_-_Infinity_Room.jpg",
+                        "Museum": "The Broad, Los Angeles",
+                        "Era": "Contemporary Era",
+                        "Period": "Contemporary Art",
+                        "Link": "https://www.thebroad.org/art/yayoi-kusama/infinity-mirrored-room-the-so-called-lovers"
+                    },
+                    {
+                        "Name": "The Diner",
+                        "id": 2,
+                        "Author": "Banksy",
+                        "Date": "2019",
+                        "Description": "A satirical artwork that comments on consumerism and modern life.",
+                        "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Banksy_diner.jpg/1280px-Banksy_diner.jpg",
+                        "Museum": "Private Collection",
+                        "Era": "Contemporary Era",
+                        "Period": "Contemporary Art",
+                        "Link": "https://www.banksy.co.uk/"
+                    }
+                ]
         }
       }
     }
